@@ -1,0 +1,972 @@
+0  There are 1 documents returned by "75 FR 3281"
+    There were 45 body content chunks and 45 footnotes found of which 11 contained citations
+1  There are 2 documents returned by "75 FR 51429"
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+2  There are 2 documents returned by "75 FR 59666"
+    There were 63 body content chunks and 63 footnotes found of which 16 contained citations
+    There were 48 body content chunks and 48 footnotes found of which 21 contained citations
+3  There are 9 documents returned by "75 FR 63732"
+    There were 326 body content chunks and 326 footnotes found of which 78 contained citations
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 146 body content chunks and 146 footnotes found of which 35 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+    There were 87 body content chunks and 87 footnotes found of which 16 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+4  There are 1 documents returned by "75 FR 65586"
+    There were 48 body content chunks and 48 footnotes found of which 21 contained citations
+5  There are 0 documents returned by "75 FR 67258"
+6  There are 4 documents returned by "75 FR 63113"
+    There were 326 body content chunks and 326 footnotes found of which 78 contained citations
+    There were 223 body content chunks and 223 footnotes found of which 29 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+7  There are 0 documents returned by "75 FR 72816"
+8  There are 1 documents returned by "75 FR 67657"
+    There were 151 body content chunks and 151 footnotes found of which 55 contained citations
+9  There are 0 documents returned by "75 FR 67301"
+10  There are 2 documents returned by "75 FR 67277"
+    There were 46 body content chunks and 46 footnotes found of which 14 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+11  There are 2 documents returned by "75 FR 76573"
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+12  There are 2 documents returned by "75 FR 76139"
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+13  There are 4 documents returned by "75 FR 71391"
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+14  There are 6 documents returned by "75 FR 71397"
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+    There were 543 body content chunks and 543 footnotes found of which 315 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+15  There are 4 documents returned by "76 FR 4752"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 146 body content chunks and 146 footnotes found of which 35 contained citations
+    There were 576 body content chunks and 572 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 518|| hedging needs increase. If a bona fide hedger seeks an exemption for anticipated commercial production or anticipatory commercial requirements, then the hedger would submit a 404A filing pursuant to Sec.  151.5(c).    Under the Proposed Rules, 404 and 404S filings would have been required on a daily basis. In light of comments concerning the burden of daily filings to both market participants and the Commission, the final regulations require only monthly reporting of 404 and 404S filings. These monthly reports would provide information on daily positions for the month reporting period.    The Commission estimated in the Proposed Rules that these bona fide hedging-related reporting requirements would affect approximately two hundred entities annually and result in a total burden of approximately $37.6 million across all of these entities, 168,000 annual labor hours, resulting in a total of $13.2 million in annual labor costs and $25.4 million in annualized capital, start-up, total operating, and maintenance costs. As a result of modifications made to the Proposed Rules, under the final regulations these bona fide hedging-related reporting requirements will affect approximately two hundred entities annually and result in a total burden of approximately $28.6 million across all of these entities, 29,700 annual labor hours, resulting in a total of $2.3 million in annual labor costs and $26.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404 filings, under the Proposed Rules, the Commission estimated that 404 filing requirements would affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404 filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404A filings, under the Proposed Rules, the Commission estimated that 404A filing requirements would affect approximately sixty entities annually, resulting in a total burden, across all of these entities, of 6,000 total annual labor hours and $4.2 million in annualized capital, start-up, total operating, and maintenance costs. In addition to adjustments in these estimates stemming from the change in the frequency of filings, the estimate of entities affected by 404A filing requirements has been modified to reflect the fact that the final regulations include certain anticipatory hedging exemptions that were absent from the Proposed Rules. Thus, under the final regulations, 404A filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 2,700 total annual labor hours and $6.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404S filings, under the Proposed Rules the Commission estimated that 404S filing requirements would affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 54,000 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404S filing requirements will affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 16,200 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs.    Section 151.5(e) specifies recordkeeping requirements for traders who claim bona fide hedge exemptions. These recordkeeping requirements include complete books and records concerning all of their related cash, futures, and swap positions and transactions and make such books and records, along with a list of swap counterparties to the Commission. Regulations 151.5(g) and 151.5(h) provide procedural documentation requirements for those availing themselves of a bona fide hedging transaction exemption. These firms would be required to document a representation and confirmation by at least one party that the swap counterparty is relying on a bona fide hedge exemption, along with a confirmation of receipt by the other party to the swap. Paragraph (h) of Sec.  151.5 also requires that the written representation and confirmation be retained by the parties and available to the Commission upon request.\519
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 519||     Section 151.6 requires traders with positions exceeding visibility levels in Referenced Contracts in metal and energy commodities to submit additional information about cash market and derivatives activity in substantially the same commodity. Section 151.6(b) requires the submission of a 401 filing which would provide basic position information on the position exceeding the visibility level. Section151.6(c) requires additional information, through a 402S filing, on a trader's uncleared swaps in substantially the same commodity. The Commission has determined to increase the visibility levels from the proposed levels, meaning fewer market participants will be affected by the relevant reporting requirements. In addition, the Proposed Rules included a requirement to submit 404A filings under proposed Sec.  151.6, but the Commission has eliminated this requirement in order to reduce the compliance burden for firms reporting under Sec.  151.6.    Requirements under 401 filing reporting regulations in the Proposed Rules would have affected approximately one hundred forty entities annually, resulting in a total burden, across all of these entities, of 16,800 total annual labor hours and $15.4 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, these requirements will affect approximately seventy entities annually, resulting in a total burden, across all of these entities, of 8,400 total annual labor hours and $5.3 million in annualized capital, start-up, total operating, and maintenance costs.    Requirements under 402S filing reporting regulations in the Proposed Rules would have affected approximately seventy entities annually, resulting in a total burden, across all of these entities, of 5,600 total annual labor hours and $4.9 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, the Commission has eliminated the 402S filing, thus eliminating any burden stemming from such reports.    Requirements under visibility level-related 404 filing reporting regulations \520
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 520||                                            Speculative Position Limits----------------------------------------------------------------------------------------------------------------                                                                        Limits by number of contracts----------------------------------------------------------------------------------------------------------------                         Contract                              Spot month       Single month       All months----------------------------------------------------------------------------------------------------------------                                             Chicago Board of Trade----------------------------------------------------------------------------------------------------------------Corn and Mini-Corn \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 521|| ....................................               600            33,000            33,000Oats......................................................               600             2,000             2,000Soybeans and Mini-Soybeans \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 522|| ............................               600            15,000            15,000Wheat and Mini-Wheat \1
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 259 contained citations
+    There were 48 body content chunks and 48 footnotes found of which 21 contained citations
+16  There are 19 documents returned by "76 FR 722"
+    There were 326 body content chunks and 326 footnotes found of which 78 contained citations
+    There were 146 body content chunks and 146 footnotes found of which 35 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+    There were 803 body content chunks and 800 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 175||     With respect to the reduction of the timeframe in Sec.  1.17(c)(5)(viii) for an FCM to incur a capital charge for undermargined customer accounts, the Commission has considered the comments and has determined to adopt the amendments as proposed. The timely collection of margin is a critical component of an FCM's risk management program and is intended to ensure that an FCM holds sufficient funds deposited by customers to meet their potential obligations to a DCO. As guarantor of the financial performance of the customer accounts that it carries, the FCM is financially responsible if the owner of an account cannot meet its margin obligations to the FCM and ultimately to a DCO.    The timeframe for meeting margin calls currently provided in Sec.  1.17(c)(5)(viii) was established in the 1970s when the use of checks and the mail system were more prevalent for depositing margin with an FCM. However, in today's markets, with the increasing use of technology, 24-hour-a-day trading, and the use of wire transfers to meet margin obligations, the Commission believes that the timeframe for taking a capital charge should be reduced both to give an incentive to FCMs to exercise prudent risk management and to strengthen the financial protections of FCMs, and to enhance the safety of the clearing systems and other customers by requiring FCMs to reserve capital for undermargined customer accounts that fail to meet a margin call on a timely basis.    Several commenters have stated that the proposal would harm customers by increasing costs to customers or by exposing more of the customers' funds to the FCM.\176
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 176|| proposed. As noted above, Sec.  1.17(c)(5)(ix) applies to noncustomers and omnibus accounts carried by an FCM. Many of the concerns raised by the comments regarding the ability to fund a margin call under Sec.  1.17(c)(5)(viii) do not apply to accounts held by an affiliate or an omnibus accounts. Such accounts should pay margin calls promptly and by wire transfer to reduce the potential exposure to the FCM resulting from undermargined accounts.    The Commission also believes that the amendments to Sec.  1.17(c)(5)(viii) and (ix) are appropriate even if the Commission amends its regulations to require an FCM to maintain residual interest in segregated accounts in excess of the undermargined amount of customer accounts. The purpose of the capital rule is to ensure that an FCM maintains sufficient liquid assets to meet its obligations as a going concern. Proprietary funds held in segregated accounts that exceed the total obligation to customers are included in an FCM's capital computation. However, in situations where the FCM's residual interest in segregated accounts is covering an undermargined customer account, a capital charge is appropriate because the FCM's residual interest is necessary to cover potential market losses on the undermargined accounts.3. Permit an FCM That Is Not a BD To Develop Policies and Procedures To Determine Creditworthiness    The Commissions proposed to amend Sec.  1.17(c)(v) to permit an FCM that is not a BD to develop a framework to establish, maintain and enforce written policies and procedures for determining creditworthiness of commercial paper, convertible debt, and nonconvertible debt instruments that are readily marketable. In recommending the proposal, the Commission noted that the SEC proposed to permit a BD to establish written policies and procedures to assess the credit risk of commercial paper, convertible debt, and nonconvertible debt instruments that are readily marketable.\177
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 177||     Under both the Commission's proposal and the SEC's proposal, an FCM or BD would assess the security's credit risk using the following factors, to the extent appropriate:    <bullet> Credit spreads (i.e., whether it is possible to demonstrate that a position in commercial paper, nonconvertible debt, and preferred stock is subject to a minimal amount of credit risk based on the spread between the security's yield and the yield of Treasury or other securities, or based on credit default swap spreads that reference the security);    <bullet> Securities-related research (i.e., whether providers of securities-related research believe the issuer of the security will be able to meet its financial commitments, generally, or specifically, with respect to securities held by the FCM or BD);    <bullet> Internal or external credit risk assessments (i.e., whether credit assessments developed internally by the FCM or BD or externally by a credit rating agency, irrespective of its status as an NRSRO, express a view as to the credit risk associated with a particular security);    <bullet> Default statistics (i.e., whether providers of credit information relating to securities express a view that specific securities have a probability of default consistent with other securities with a minimal amount of credit risk);    <bullet> Inclusion on an index (i.e., whether a security, or issuer of the security, is included as a component of a recognized index of instruments that are subject to a minimal amount of credit risk);    <bullet> Priorities and enhancements (i.e., the extent to which a security is covered by credit enhancements, such as overcollateralization and reserve accounts, or has priority under applicable bankruptcy or creditors' rights provisions);    <bullet> Price, yield and/or volume (i.e., whether the price and yield of a security or a credit default swap that references the security are consistent with other securities that the FCM or BD has determined are subject to a minimal amount of credit risk and whether the price resulted from active trading); and    <bullet> Asset class-specific factors (e.g., in the case of structured finance products, the quality of the underlying assets).    An FCM that maintains written policies and procedures and determines that the credit risk of a security is minimal is permitted under the proposal to apply the lesser haircut requirement currently specified in the SEC capital rule for commercial paper (i.e., between zero and \1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 178|| of 1 percent), nonconvertible debt (i.e., between 2 percent and 9 percent), and preferred stock (i.e., 10 percent).    The CFA does not believe it is appropriate for FCMs to use internal models to determine minimum required capital.\178
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 179|| The CFA believes that capital models should be established by the relevant regulatory agencies for use by FCMs or BDs.\179
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 484 contained citations
+    There were 245 body content chunks and 245 footnotes found of which 115 contained citations
+    There were 713 body content chunks and 687 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 660|| 8. Daily Trading Records    Pursuant to section CEA 4s(g), the Commission adopted regulation 23.202, which requires swap dealers and MSPs to maintain daily trading records, including records of trade information related to pre-execution, execution, and post-execution data that is needed to conduct a comprehensive and accurate trade reconstruction for each swap. The final rule also requires that records be kept of cash or forward transactions used to hedge, mitigate the risk of, or offset any swap held by the swap dealer or MSP.\661
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 661||     Pursuant to CEA section 4s(h), the Commission has adopted external business conduct rules, which establish business conduct standards governing the conduct of swap dealers and MSPs in dealing with their counterparties in entering into swaps.\662
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 662|| ------------------------------------------------------------------------ ------------------------------------------------------------------------U.S. Swap Dealer or MSP (including an    Apply. affiliate of a non-U.S. person). Also applies when acting through a foreign branch.\1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 663|| Non-U.S. Swap Dealer or MSP (including   First Category: \2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 664|| Substituted an affiliate of a U.S. person)..         Compliance.                                         Second Category: \3
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 157 contained citations
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 55 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 119 body content chunks and 119 footnotes found of which 69 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+    There were 576 body content chunks and 572 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 518|| hedging needs increase. If a bona fide hedger seeks an exemption for anticipated commercial production or anticipatory commercial requirements, then the hedger would submit a 404A filing pursuant to Sec.  151.5(c).    Under the Proposed Rules, 404 and 404S filings would have been required on a daily basis. In light of comments concerning the burden of daily filings to both market participants and the Commission, the final regulations require only monthly reporting of 404 and 404S filings. These monthly reports would provide information on daily positions for the month reporting period.    The Commission estimated in the Proposed Rules that these bona fide hedging-related reporting requirements would affect approximately two hundred entities annually and result in a total burden of approximately $37.6 million across all of these entities, 168,000 annual labor hours, resulting in a total of $13.2 million in annual labor costs and $25.4 million in annualized capital, start-up, total operating, and maintenance costs. As a result of modifications made to the Proposed Rules, under the final regulations these bona fide hedging-related reporting requirements will affect approximately two hundred entities annually and result in a total burden of approximately $28.6 million across all of these entities, 29,700 annual labor hours, resulting in a total of $2.3 million in annual labor costs and $26.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404 filings, under the Proposed Rules, the Commission estimated that 404 filing requirements would affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404 filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404A filings, under the Proposed Rules, the Commission estimated that 404A filing requirements would affect approximately sixty entities annually, resulting in a total burden, across all of these entities, of 6,000 total annual labor hours and $4.2 million in annualized capital, start-up, total operating, and maintenance costs. In addition to adjustments in these estimates stemming from the change in the frequency of filings, the estimate of entities affected by 404A filing requirements has been modified to reflect the fact that the final regulations include certain anticipatory hedging exemptions that were absent from the Proposed Rules. Thus, under the final regulations, 404A filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 2,700 total annual labor hours and $6.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404S filings, under the Proposed Rules the Commission estimated that 404S filing requirements would affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 54,000 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404S filing requirements will affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 16,200 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs.    Section 151.5(e) specifies recordkeeping requirements for traders who claim bona fide hedge exemptions. These recordkeeping requirements include complete books and records concerning all of their related cash, futures, and swap positions and transactions and make such books and records, along with a list of swap counterparties to the Commission. Regulations 151.5(g) and 151.5(h) provide procedural documentation requirements for those availing themselves of a bona fide hedging transaction exemption. These firms would be required to document a representation and confirmation by at least one party that the swap counterparty is relying on a bona fide hedge exemption, along with a confirmation of receipt by the other party to the swap. Paragraph (h) of Sec.  151.5 also requires that the written representation and confirmation be retained by the parties and available to the Commission upon request.\519
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 519||     Section 151.6 requires traders with positions exceeding visibility levels in Referenced Contracts in metal and energy commodities to submit additional information about cash market and derivatives activity in substantially the same commodity. Section 151.6(b) requires the submission of a 401 filing which would provide basic position information on the position exceeding the visibility level. Section151.6(c) requires additional information, through a 402S filing, on a trader's uncleared swaps in substantially the same commodity. The Commission has determined to increase the visibility levels from the proposed levels, meaning fewer market participants will be affected by the relevant reporting requirements. In addition, the Proposed Rules included a requirement to submit 404A filings under proposed Sec.  151.6, but the Commission has eliminated this requirement in order to reduce the compliance burden for firms reporting under Sec.  151.6.    Requirements under 401 filing reporting regulations in the Proposed Rules would have affected approximately one hundred forty entities annually, resulting in a total burden, across all of these entities, of 16,800 total annual labor hours and $15.4 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, these requirements will affect approximately seventy entities annually, resulting in a total burden, across all of these entities, of 8,400 total annual labor hours and $5.3 million in annualized capital, start-up, total operating, and maintenance costs.    Requirements under 402S filing reporting regulations in the Proposed Rules would have affected approximately seventy entities annually, resulting in a total burden, across all of these entities, of 5,600 total annual labor hours and $4.9 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, the Commission has eliminated the 402S filing, thus eliminating any burden stemming from such reports.    Requirements under visibility level-related 404 filing reporting regulations \520
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 520||                                            Speculative Position Limits----------------------------------------------------------------------------------------------------------------                                                                        Limits by number of contracts----------------------------------------------------------------------------------------------------------------                         Contract                              Spot month       Single month       All months----------------------------------------------------------------------------------------------------------------                                             Chicago Board of Trade----------------------------------------------------------------------------------------------------------------Corn and Mini-Corn \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 521|| ....................................               600            33,000            33,000Oats......................................................               600             2,000             2,000Soybeans and Mini-Soybeans \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 522|| ............................               600            15,000            15,000Wheat and Mini-Wheat \1
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 259 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+    There were 157 body content chunks and 157 footnotes found of which 33 contained citations
+    There were 151 body content chunks and 151 footnotes found of which 55 contained citations
+17  There are 12 documents returned by "75 FR 80174"
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 119 body content chunks and 119 footnotes found of which 69 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 87 body content chunks and 87 footnotes found of which 16 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+    There were 72 body content chunks and 72 footnotes found of which 10 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 63 body content chunks and 63 footnotes found of which 16 contained citations
+    There were 14 body content chunks and 14 footnotes found of which 5 contained citations
+    There were 38 body content chunks and 38 footnotes found of which 12 contained citations
+    There were 157 body content chunks and 157 footnotes found of which 33 contained citations
+18  There are 9 documents returned by "75 FR 80747"
+    There were 100 body content chunks and 100 footnotes found of which 33 contained citations
+    There were 263 body content chunks and 259 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 103||                       Table 4--Interest Rate Swaps Notional and Trade Count by Class \104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 104|| ----------------------------------------------------------------------------------------------------------------                                       Notional amount     Gross notional                      Total trade count             Swap class                   (USD BNs)       percent of total  Total trade count   percent of total----------------------------------------------------------------------------------------------------------------Fixed-to-Floating...................            299,818                 60          3,239,092                 75FRA.................................             67,145                 13            202,888                  5OIS.................................             43,634                  9            109,704                  3Basis...............................             27,593                  5            119,683                  3Other \105
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 105||      Total...........................            503,879                100          4,289,004                100----------------------------------------------------------------------------------------------------------------\104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 106|| TriOptima data, as of March 16, 2012. See Section II.F below for a description of the TriOptima data. The  TriOptima data provided information on nine other classes of swaps, none of which is included in the IRS  submissions.\105
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 107||     For purposes of the clearing requirement determination, the Commission developed the following class definitions based on information provided by the submitting DCOs and market conventions.    1. ``Fixed-to-floating swap'': A swap in which the payment or payments owed for one leg of the swap is calculated using a fixed rate and the payment or payments owed for the other leg are calculated using a floating rate.    2. ``Floating-to-floating swap'' or ``basis swap'': A swap in which the payments for both legs are calculated using floating rates.    3. ``Forward Rate Agreement'' or ``FRA'': A swap in which payments are exchanged on a pre-determined date for a single specified period and one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate that is set on a pre-determined date.    4. ``Overnight indexed swap'' or ``OIS'': A swap for which one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate based on a daily overnight rate.    As described in the NPRM, the LCH and CME IRS submissions addressed issues of classification for purposes of the interest rate swap clearing requirement. In its submission, LCH discussed the classification of interest rate swaps and recommended establishing clearing requirements for classes of interest rate swaps. In effect, LCH recommended the use of a set of basic product specifications to identify and describe each class of swaps subject to the clearing requirement. CME recommended a clearing determination for all non-option interest rate swaps denominated in a currency cleared by any qualified DCO.    As an alternative, the Commission considered whether to establish clearing requirements on a product-by-product basis. The Commission noted in the NPRM that such a determination would need to identify the multitude of specifications of each product that would be subject to the clearing requirement. In this regard, LCH stated in its IRS submission that the clearing requirement ``would be sub-optimal for the overall market if participants are forced to read pages of rules to decipher whether or not a swap is required to be cleared, or to have to make complex and time consuming decisions at the point of execution.'' \106
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 60 contained citations
+    There were 119 body content chunks and 119 footnotes found of which 69 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 576 body content chunks and 572 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 518|| hedging needs increase. If a bona fide hedger seeks an exemption for anticipated commercial production or anticipatory commercial requirements, then the hedger would submit a 404A filing pursuant to Sec.  151.5(c).    Under the Proposed Rules, 404 and 404S filings would have been required on a daily basis. In light of comments concerning the burden of daily filings to both market participants and the Commission, the final regulations require only monthly reporting of 404 and 404S filings. These monthly reports would provide information on daily positions for the month reporting period.    The Commission estimated in the Proposed Rules that these bona fide hedging-related reporting requirements would affect approximately two hundred entities annually and result in a total burden of approximately $37.6 million across all of these entities, 168,000 annual labor hours, resulting in a total of $13.2 million in annual labor costs and $25.4 million in annualized capital, start-up, total operating, and maintenance costs. As a result of modifications made to the Proposed Rules, under the final regulations these bona fide hedging-related reporting requirements will affect approximately two hundred entities annually and result in a total burden of approximately $28.6 million across all of these entities, 29,700 annual labor hours, resulting in a total of $2.3 million in annual labor costs and $26.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404 filings, under the Proposed Rules, the Commission estimated that 404 filing requirements would affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404 filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404A filings, under the Proposed Rules, the Commission estimated that 404A filing requirements would affect approximately sixty entities annually, resulting in a total burden, across all of these entities, of 6,000 total annual labor hours and $4.2 million in annualized capital, start-up, total operating, and maintenance costs. In addition to adjustments in these estimates stemming from the change in the frequency of filings, the estimate of entities affected by 404A filing requirements has been modified to reflect the fact that the final regulations include certain anticipatory hedging exemptions that were absent from the Proposed Rules. Thus, under the final regulations, 404A filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 2,700 total annual labor hours and $6.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404S filings, under the Proposed Rules the Commission estimated that 404S filing requirements would affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 54,000 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404S filing requirements will affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 16,200 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs.    Section 151.5(e) specifies recordkeeping requirements for traders who claim bona fide hedge exemptions. These recordkeeping requirements include complete books and records concerning all of their related cash, futures, and swap positions and transactions and make such books and records, along with a list of swap counterparties to the Commission. Regulations 151.5(g) and 151.5(h) provide procedural documentation requirements for those availing themselves of a bona fide hedging transaction exemption. These firms would be required to document a representation and confirmation by at least one party that the swap counterparty is relying on a bona fide hedge exemption, along with a confirmation of receipt by the other party to the swap. Paragraph (h) of Sec.  151.5 also requires that the written representation and confirmation be retained by the parties and available to the Commission upon request.\519
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 519||     Section 151.6 requires traders with positions exceeding visibility levels in Referenced Contracts in metal and energy commodities to submit additional information about cash market and derivatives activity in substantially the same commodity. Section 151.6(b) requires the submission of a 401 filing which would provide basic position information on the position exceeding the visibility level. Section151.6(c) requires additional information, through a 402S filing, on a trader's uncleared swaps in substantially the same commodity. The Commission has determined to increase the visibility levels from the proposed levels, meaning fewer market participants will be affected by the relevant reporting requirements. In addition, the Proposed Rules included a requirement to submit 404A filings under proposed Sec.  151.6, but the Commission has eliminated this requirement in order to reduce the compliance burden for firms reporting under Sec.  151.6.    Requirements under 401 filing reporting regulations in the Proposed Rules would have affected approximately one hundred forty entities annually, resulting in a total burden, across all of these entities, of 16,800 total annual labor hours and $15.4 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, these requirements will affect approximately seventy entities annually, resulting in a total burden, across all of these entities, of 8,400 total annual labor hours and $5.3 million in annualized capital, start-up, total operating, and maintenance costs.    Requirements under 402S filing reporting regulations in the Proposed Rules would have affected approximately seventy entities annually, resulting in a total burden, across all of these entities, of 5,600 total annual labor hours and $4.9 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, the Commission has eliminated the 402S filing, thus eliminating any burden stemming from such reports.    Requirements under visibility level-related 404 filing reporting regulations \520
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 520||                                            Speculative Position Limits----------------------------------------------------------------------------------------------------------------                                                                        Limits by number of contracts----------------------------------------------------------------------------------------------------------------                         Contract                              Spot month       Single month       All months----------------------------------------------------------------------------------------------------------------                                             Chicago Board of Trade----------------------------------------------------------------------------------------------------------------Corn and Mini-Corn \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 521|| ....................................               600            33,000            33,000Oats......................................................               600             2,000             2,000Soybeans and Mini-Soybeans \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 522|| ............................               600            15,000            15,000Wheat and Mini-Wheat \1
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 259 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+    There were 63 body content chunks and 63 footnotes found of which 16 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+19  There are 5 documents returned by "75 FR 80638"
+    There were 44 body content chunks and 44 footnotes found of which 2 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 248 body content chunks and 247 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 135 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+20  There are 10 documents returned by "75 FR 81519"
+    There were 713 body content chunks and 687 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 660|| 8. Daily Trading Records    Pursuant to section CEA 4s(g), the Commission adopted regulation 23.202, which requires swap dealers and MSPs to maintain daily trading records, including records of trade information related to pre-execution, execution, and post-execution data that is needed to conduct a comprehensive and accurate trade reconstruction for each swap. The final rule also requires that records be kept of cash or forward transactions used to hedge, mitigate the risk of, or offset any swap held by the swap dealer or MSP.\661
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 661||     Pursuant to CEA section 4s(h), the Commission has adopted external business conduct rules, which establish business conduct standards governing the conduct of swap dealers and MSPs in dealing with their counterparties in entering into swaps.\662
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 662|| ------------------------------------------------------------------------ ------------------------------------------------------------------------U.S. Swap Dealer or MSP (including an    Apply. affiliate of a non-U.S. person). Also applies when acting through a foreign branch.\1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 663|| Non-U.S. Swap Dealer or MSP (including   First Category: \2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 664|| Substituted an affiliate of a U.S. person)..         Compliance.                                         Second Category: \3
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 157 contained citations
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 217 body content chunks and 217 footnotes found of which 60 contained citations
+    There were 146 body content chunks and 146 footnotes found of which 35 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 67 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+    There were 543 body content chunks and 543 footnotes found of which 315 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+21  There are 5 documents returned by "76 FR 3698"
+    There were 223 body content chunks and 223 footnotes found of which 29 contained citations
+    There were 332 body content chunks and 332 footnotes found of which 93 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 46 body content chunks and 46 footnotes found of which 14 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+22  There are 6 documents returned by "76 FR 6095"
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 87 body content chunks and 87 footnotes found of which 16 contained citations
+    There were 63 body content chunks and 63 footnotes found of which 16 contained citations
+    There were 157 body content chunks and 157 footnotes found of which 33 contained citations
+    There were 48 body content chunks and 48 footnotes found of which 21 contained citations
+23  There are 8 documents returned by "76 FR 6715"
+    There were 217 body content chunks and 217 footnotes found of which 60 contained citations
+    There were 174 body content chunks and 174 footnotes found of which 74 contained citations
+    There were 44 body content chunks and 44 footnotes found of which 2 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 67 contained citations
+    There were 119 body content chunks and 119 footnotes found of which 69 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+    There were 576 body content chunks and 572 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 518|| hedging needs increase. If a bona fide hedger seeks an exemption for anticipated commercial production or anticipatory commercial requirements, then the hedger would submit a 404A filing pursuant to Sec.  151.5(c).    Under the Proposed Rules, 404 and 404S filings would have been required on a daily basis. In light of comments concerning the burden of daily filings to both market participants and the Commission, the final regulations require only monthly reporting of 404 and 404S filings. These monthly reports would provide information on daily positions for the month reporting period.    The Commission estimated in the Proposed Rules that these bona fide hedging-related reporting requirements would affect approximately two hundred entities annually and result in a total burden of approximately $37.6 million across all of these entities, 168,000 annual labor hours, resulting in a total of $13.2 million in annual labor costs and $25.4 million in annualized capital, start-up, total operating, and maintenance costs. As a result of modifications made to the Proposed Rules, under the final regulations these bona fide hedging-related reporting requirements will affect approximately two hundred entities annually and result in a total burden of approximately $28.6 million across all of these entities, 29,700 annual labor hours, resulting in a total of $2.3 million in annual labor costs and $26.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404 filings, under the Proposed Rules, the Commission estimated that 404 filing requirements would affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404 filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404A filings, under the Proposed Rules, the Commission estimated that 404A filing requirements would affect approximately sixty entities annually, resulting in a total burden, across all of these entities, of 6,000 total annual labor hours and $4.2 million in annualized capital, start-up, total operating, and maintenance costs. In addition to adjustments in these estimates stemming from the change in the frequency of filings, the estimate of entities affected by 404A filing requirements has been modified to reflect the fact that the final regulations include certain anticipatory hedging exemptions that were absent from the Proposed Rules. Thus, under the final regulations, 404A filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 2,700 total annual labor hours and $6.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404S filings, under the Proposed Rules the Commission estimated that 404S filing requirements would affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 54,000 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404S filing requirements will affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 16,200 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs.    Section 151.5(e) specifies recordkeeping requirements for traders who claim bona fide hedge exemptions. These recordkeeping requirements include complete books and records concerning all of their related cash, futures, and swap positions and transactions and make such books and records, along with a list of swap counterparties to the Commission. Regulations 151.5(g) and 151.5(h) provide procedural documentation requirements for those availing themselves of a bona fide hedging transaction exemption. These firms would be required to document a representation and confirmation by at least one party that the swap counterparty is relying on a bona fide hedge exemption, along with a confirmation of receipt by the other party to the swap. Paragraph (h) of Sec.  151.5 also requires that the written representation and confirmation be retained by the parties and available to the Commission upon request.\519
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 519||     Section 151.6 requires traders with positions exceeding visibility levels in Referenced Contracts in metal and energy commodities to submit additional information about cash market and derivatives activity in substantially the same commodity. Section 151.6(b) requires the submission of a 401 filing which would provide basic position information on the position exceeding the visibility level. Section151.6(c) requires additional information, through a 402S filing, on a trader's uncleared swaps in substantially the same commodity. The Commission has determined to increase the visibility levels from the proposed levels, meaning fewer market participants will be affected by the relevant reporting requirements. In addition, the Proposed Rules included a requirement to submit 404A filings under proposed Sec.  151.6, but the Commission has eliminated this requirement in order to reduce the compliance burden for firms reporting under Sec.  151.6.    Requirements under 401 filing reporting regulations in the Proposed Rules would have affected approximately one hundred forty entities annually, resulting in a total burden, across all of these entities, of 16,800 total annual labor hours and $15.4 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, these requirements will affect approximately seventy entities annually, resulting in a total burden, across all of these entities, of 8,400 total annual labor hours and $5.3 million in annualized capital, start-up, total operating, and maintenance costs.    Requirements under 402S filing reporting regulations in the Proposed Rules would have affected approximately seventy entities annually, resulting in a total burden, across all of these entities, of 5,600 total annual labor hours and $4.9 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, the Commission has eliminated the 402S filing, thus eliminating any burden stemming from such reports.    Requirements under visibility level-related 404 filing reporting regulations \520
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 520||                                            Speculative Position Limits----------------------------------------------------------------------------------------------------------------                                                                        Limits by number of contracts----------------------------------------------------------------------------------------------------------------                         Contract                              Spot month       Single month       All months----------------------------------------------------------------------------------------------------------------                                             Chicago Board of Trade----------------------------------------------------------------------------------------------------------------Corn and Mini-Corn \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 521|| ....................................               600            33,000            33,000Oats......................................................               600             2,000             2,000Soybeans and Mini-Soybeans \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 522|| ............................               600            15,000            15,000Wheat and Mini-Wheat \1
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 259 contained citations
+    There were 98 body content chunks and 98 footnotes found of which 56 contained citations
+24  There are 2 documents returned by "75 FR 67642"
+    There were 204 body content chunks and 204 footnotes found of which 60 contained citations
+    There were 15 body content chunks and 15 footnotes found of which 0 contained citations
+25  There are 8 documents returned by "76 FR 23732"
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+    There were 183 body content chunks and 183 footnotes found of which 47 contained citations
+    There were 713 body content chunks and 687 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 660|| 8. Daily Trading Records    Pursuant to section CEA 4s(g), the Commission adopted regulation 23.202, which requires swap dealers and MSPs to maintain daily trading records, including records of trade information related to pre-execution, execution, and post-execution data that is needed to conduct a comprehensive and accurate trade reconstruction for each swap. The final rule also requires that records be kept of cash or forward transactions used to hedge, mitigate the risk of, or offset any swap held by the swap dealer or MSP.\661
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 661||     Pursuant to CEA section 4s(h), the Commission has adopted external business conduct rules, which establish business conduct standards governing the conduct of swap dealers and MSPs in dealing with their counterparties in entering into swaps.\662
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 662|| ------------------------------------------------------------------------ ------------------------------------------------------------------------U.S. Swap Dealer or MSP (including an    Apply. affiliate of a non-U.S. person). Also applies when acting through a foreign branch.\1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 663|| Non-U.S. Swap Dealer or MSP (including   First Category: \2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 664|| Substituted an affiliate of a U.S. person)..         Compliance.                                         Second Category: \3
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 157 contained citations
+    There were 263 body content chunks and 259 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 103||                       Table 4--Interest Rate Swaps Notional and Trade Count by Class \104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 104|| ----------------------------------------------------------------------------------------------------------------                                       Notional amount     Gross notional                      Total trade count             Swap class                   (USD BNs)       percent of total  Total trade count   percent of total----------------------------------------------------------------------------------------------------------------Fixed-to-Floating...................            299,818                 60          3,239,092                 75FRA.................................             67,145                 13            202,888                  5OIS.................................             43,634                  9            109,704                  3Basis...............................             27,593                  5            119,683                  3Other \105
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 105||      Total...........................            503,879                100          4,289,004                100----------------------------------------------------------------------------------------------------------------\104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 106|| TriOptima data, as of March 16, 2012. See Section II.F below for a description of the TriOptima data. The  TriOptima data provided information on nine other classes of swaps, none of which is included in the IRS  submissions.\105
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 107||     For purposes of the clearing requirement determination, the Commission developed the following class definitions based on information provided by the submitting DCOs and market conventions.    1. ``Fixed-to-floating swap'': A swap in which the payment or payments owed for one leg of the swap is calculated using a fixed rate and the payment or payments owed for the other leg are calculated using a floating rate.    2. ``Floating-to-floating swap'' or ``basis swap'': A swap in which the payments for both legs are calculated using floating rates.    3. ``Forward Rate Agreement'' or ``FRA'': A swap in which payments are exchanged on a pre-determined date for a single specified period and one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate that is set on a pre-determined date.    4. ``Overnight indexed swap'' or ``OIS'': A swap for which one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate based on a daily overnight rate.    As described in the NPRM, the LCH and CME IRS submissions addressed issues of classification for purposes of the interest rate swap clearing requirement. In its submission, LCH discussed the classification of interest rate swaps and recommended establishing clearing requirements for classes of interest rate swaps. In effect, LCH recommended the use of a set of basic product specifications to identify and describe each class of swaps subject to the clearing requirement. CME recommended a clearing determination for all non-option interest rate swaps denominated in a currency cleared by any qualified DCO.    As an alternative, the Commission considered whether to establish clearing requirements on a product-by-product basis. The Commission noted in the NPRM that such a determination would need to identify the multitude of specifications of each product that would be subject to the clearing requirement. In this regard, LCH stated in its IRS submission that the clearing requirement ``would be sub-optimal for the overall market if participants are forced to read pages of rules to decipher whether or not a swap is required to be cleared, or to have to make complex and time consuming decisions at the point of execution.'' \106
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 60 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 67 contained citations
+    There were 23 body content chunks and 23 footnotes found of which 6 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+26  There are 5 documents returned by "76 FR 27802"
+    There were 803 body content chunks and 800 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 175||     With respect to the reduction of the timeframe in Sec.  1.17(c)(5)(viii) for an FCM to incur a capital charge for undermargined customer accounts, the Commission has considered the comments and has determined to adopt the amendments as proposed. The timely collection of margin is a critical component of an FCM's risk management program and is intended to ensure that an FCM holds sufficient funds deposited by customers to meet their potential obligations to a DCO. As guarantor of the financial performance of the customer accounts that it carries, the FCM is financially responsible if the owner of an account cannot meet its margin obligations to the FCM and ultimately to a DCO.    The timeframe for meeting margin calls currently provided in Sec.  1.17(c)(5)(viii) was established in the 1970s when the use of checks and the mail system were more prevalent for depositing margin with an FCM. However, in today's markets, with the increasing use of technology, 24-hour-a-day trading, and the use of wire transfers to meet margin obligations, the Commission believes that the timeframe for taking a capital charge should be reduced both to give an incentive to FCMs to exercise prudent risk management and to strengthen the financial protections of FCMs, and to enhance the safety of the clearing systems and other customers by requiring FCMs to reserve capital for undermargined customer accounts that fail to meet a margin call on a timely basis.    Several commenters have stated that the proposal would harm customers by increasing costs to customers or by exposing more of the customers' funds to the FCM.\176
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 176|| proposed. As noted above, Sec.  1.17(c)(5)(ix) applies to noncustomers and omnibus accounts carried by an FCM. Many of the concerns raised by the comments regarding the ability to fund a margin call under Sec.  1.17(c)(5)(viii) do not apply to accounts held by an affiliate or an omnibus accounts. Such accounts should pay margin calls promptly and by wire transfer to reduce the potential exposure to the FCM resulting from undermargined accounts.    The Commission also believes that the amendments to Sec.  1.17(c)(5)(viii) and (ix) are appropriate even if the Commission amends its regulations to require an FCM to maintain residual interest in segregated accounts in excess of the undermargined amount of customer accounts. The purpose of the capital rule is to ensure that an FCM maintains sufficient liquid assets to meet its obligations as a going concern. Proprietary funds held in segregated accounts that exceed the total obligation to customers are included in an FCM's capital computation. However, in situations where the FCM's residual interest in segregated accounts is covering an undermargined customer account, a capital charge is appropriate because the FCM's residual interest is necessary to cover potential market losses on the undermargined accounts.3. Permit an FCM That Is Not a BD To Develop Policies and Procedures To Determine Creditworthiness    The Commissions proposed to amend Sec.  1.17(c)(v) to permit an FCM that is not a BD to develop a framework to establish, maintain and enforce written policies and procedures for determining creditworthiness of commercial paper, convertible debt, and nonconvertible debt instruments that are readily marketable. In recommending the proposal, the Commission noted that the SEC proposed to permit a BD to establish written policies and procedures to assess the credit risk of commercial paper, convertible debt, and nonconvertible debt instruments that are readily marketable.\177
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 177||     Under both the Commission's proposal and the SEC's proposal, an FCM or BD would assess the security's credit risk using the following factors, to the extent appropriate:    <bullet> Credit spreads (i.e., whether it is possible to demonstrate that a position in commercial paper, nonconvertible debt, and preferred stock is subject to a minimal amount of credit risk based on the spread between the security's yield and the yield of Treasury or other securities, or based on credit default swap spreads that reference the security);    <bullet> Securities-related research (i.e., whether providers of securities-related research believe the issuer of the security will be able to meet its financial commitments, generally, or specifically, with respect to securities held by the FCM or BD);    <bullet> Internal or external credit risk assessments (i.e., whether credit assessments developed internally by the FCM or BD or externally by a credit rating agency, irrespective of its status as an NRSRO, express a view as to the credit risk associated with a particular security);    <bullet> Default statistics (i.e., whether providers of credit information relating to securities express a view that specific securities have a probability of default consistent with other securities with a minimal amount of credit risk);    <bullet> Inclusion on an index (i.e., whether a security, or issuer of the security, is included as a component of a recognized index of instruments that are subject to a minimal amount of credit risk);    <bullet> Priorities and enhancements (i.e., the extent to which a security is covered by credit enhancements, such as overcollateralization and reserve accounts, or has priority under applicable bankruptcy or creditors' rights provisions);    <bullet> Price, yield and/or volume (i.e., whether the price and yield of a security or a credit default swap that references the security are consistent with other securities that the FCM or BD has determined are subject to a minimal amount of credit risk and whether the price resulted from active trading); and    <bullet> Asset class-specific factors (e.g., in the case of structured finance products, the quality of the underlying assets).    An FCM that maintains written policies and procedures and determines that the credit risk of a security is minimal is permitted under the proposal to apply the lesser haircut requirement currently specified in the SEC capital rule for commercial paper (i.e., between zero and \1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 178|| of 1 percent), nonconvertible debt (i.e., between 2 percent and 9 percent), and preferred stock (i.e., 10 percent).    The CFA does not believe it is appropriate for FCMs to use internal models to determine minimum required capital.\178
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 179|| The CFA believes that capital models should be established by the relevant regulatory agencies for use by FCMs or BDs.\179
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 484 contained citations
+    There were 713 body content chunks and 687 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 660|| 8. Daily Trading Records    Pursuant to section CEA 4s(g), the Commission adopted regulation 23.202, which requires swap dealers and MSPs to maintain daily trading records, including records of trade information related to pre-execution, execution, and post-execution data that is needed to conduct a comprehensive and accurate trade reconstruction for each swap. The final rule also requires that records be kept of cash or forward transactions used to hedge, mitigate the risk of, or offset any swap held by the swap dealer or MSP.\661
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 661||     Pursuant to CEA section 4s(h), the Commission has adopted external business conduct rules, which establish business conduct standards governing the conduct of swap dealers and MSPs in dealing with their counterparties in entering into swaps.\662
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 662|| ------------------------------------------------------------------------ ------------------------------------------------------------------------U.S. Swap Dealer or MSP (including an    Apply. affiliate of a non-U.S. person). Also applies when acting through a foreign branch.\1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 663|| Non-U.S. Swap Dealer or MSP (including   First Category: \2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 664|| Substituted an affiliate of a U.S. person)..         Compliance.                                         Second Category: \3
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 157 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+27  There are 2 documents returned by "77 FR 8332"
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+28  There are 3 documents returned by "77 FR 15460"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+    There were 48 body content chunks and 48 footnotes found of which 4 contained citations
+29  There are 0 documents returned by "77 FR 31767"
+30  There are 3 documents returned by "77 FR 41110"
+    There were 713 body content chunks and 687 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 660|| 8. Daily Trading Records    Pursuant to section CEA 4s(g), the Commission adopted regulation 23.202, which requires swap dealers and MSPs to maintain daily trading records, including records of trade information related to pre-execution, execution, and post-execution data that is needed to conduct a comprehensive and accurate trade reconstruction for each swap. The final rule also requires that records be kept of cash or forward transactions used to hedge, mitigate the risk of, or offset any swap held by the swap dealer or MSP.\661
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 661||     Pursuant to CEA section 4s(h), the Commission has adopted external business conduct rules, which establish business conduct standards governing the conduct of swap dealers and MSPs in dealing with their counterparties in entering into swaps.\662
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 662|| ------------------------------------------------------------------------ ------------------------------------------------------------------------U.S. Swap Dealer or MSP (including an    Apply. affiliate of a non-U.S. person). Also applies when acting through a foreign branch.\1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 663|| Non-U.S. Swap Dealer or MSP (including   First Category: \2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 664|| Substituted an affiliate of a U.S. person)..         Compliance.                                         Second Category: \3
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 157 contained citations
+    There were 68 body content chunks and 68 footnotes found of which 4 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 55 contained citations
+31  There are 1 documents returned by "77 FR 41213"
+    There were 67 body content chunks and 67 footnotes found of which 28 contained citations
+32  There are 0 documents returned by "77 FR 49428"
+33  There are 0 documents returned by "77 FR 60113"
+34  There are 7 documents returned by "78 FR 909"
+    There were 713 body content chunks and 687 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 660|| 8. Daily Trading Records    Pursuant to section CEA 4s(g), the Commission adopted regulation 23.202, which requires swap dealers and MSPs to maintain daily trading records, including records of trade information related to pre-execution, execution, and post-execution data that is needed to conduct a comprehensive and accurate trade reconstruction for each swap. The final rule also requires that records be kept of cash or forward transactions used to hedge, mitigate the risk of, or offset any swap held by the swap dealer or MSP.\661
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 661||     Pursuant to CEA section 4s(h), the Commission has adopted external business conduct rules, which establish business conduct standards governing the conduct of swap dealers and MSPs in dealing with their counterparties in entering into swaps.\662
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 662|| ------------------------------------------------------------------------ ------------------------------------------------------------------------U.S. Swap Dealer or MSP (including an    Apply. affiliate of a non-U.S. person). Also applies when acting through a foreign branch.\1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 663|| Non-U.S. Swap Dealer or MSP (including   First Category: \2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 664|| Substituted an affiliate of a U.S. person)..         Compliance.                                         Second Category: \3
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 157 contained citations
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+35  There are 0 documents returned by "78 FR 68946"
+36  There are 3 documents returned by "79 FR 1347"
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+37  There are 1 documents returned by "79 FR 30762"
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+38  There are 3 documents returned by "75 FR 63080"
+    There were 95 body content chunks and 94 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 15 contained citations
+    There were 23 body content chunks and 23 footnotes found of which 1 contained citations
+    There were 24 body content chunks and 24 footnotes found of which 2 contained citations
+39  There are 7 documents returned by "75 FR 67282"
+    There were 223 body content chunks and 223 footnotes found of which 29 contained citations
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+    There were 46 body content chunks and 46 footnotes found of which 14 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+    There were 15 body content chunks and 15 footnotes found of which 0 contained citations
+40  There are 0 documents returned by "75 FR 76706"
+41  There are 5 documents returned by "75 FR 71379"
+    There were 183 body content chunks and 183 footnotes found of which 47 contained citations
+    There were 33 body content chunks and 33 footnotes found of which 5 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+42  There are 1 documents returned by "75 FR 75162"
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+43  There are 1 documents returned by "75 FR 70152"
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+44  There are 5 documents returned by "75 FR 70881"
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+45  There are 2 documents returned by "75 FR 75432"
+    There were 183 body content chunks and 183 footnotes found of which 47 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+46  There are 1 documents returned by "75 FR 75728"
+    There were 192 body content chunks and 192 footnotes found of which 125 contained citations
+47  There are 1 documents returned by "75 FR 76930"
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+48  There are 6 documents returned by "75 FR 76666"
+    There were 44 body content chunks and 44 footnotes found of which 2 contained citations
+    There were 146 body content chunks and 146 footnotes found of which 35 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+    There were 108 body content chunks and 108 footnotes found of which 42 contained citations
+49  There are 3 documents returned by "75 FR 77576"
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 46 body content chunks and 46 footnotes found of which 14 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+50  There are 4 documents returned by "75 FR 80898"
+    There were 100 body content chunks and 100 footnotes found of which 33 contained citations
+    There were 119 body content chunks and 119 footnotes found of which 69 contained citations
+    There were 87 body content chunks and 87 footnotes found of which 16 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+51  There are 16 documents returned by "76 FR 1214"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 305 body content chunks and 305 footnotes found of which 227 contained citations
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+    There were 146 body content chunks and 146 footnotes found of which 35 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 67 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 48 body content chunks and 48 footnotes found of which 4 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+    There were 127 body content chunks and 127 footnotes found of which 44 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+    There were 46 body content chunks and 46 footnotes found of which 14 contained citations
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 543 body content chunks and 543 footnotes found of which 315 contained citations
+52  There are 1 documents returned by "76 FR 16587"
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+53  There are 6 documents returned by "76 FR 13101"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 127 body content chunks and 127 footnotes found of which 44 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+54  There are 3 documents returned by "76 FR 6708"
+    There were 217 body content chunks and 217 footnotes found of which 60 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 67 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+55  There are 1 documents returned by "75 FR 66018"
+    There were 38 body content chunks and 38 footnotes found of which 12 contained citations
+56  There are 4 documents returned by "75 FR 66014"
+    There were 183 body content chunks and 183 footnotes found of which 47 contained citations
+    There were 332 body content chunks and 332 footnotes found of which 93 contained citations
+    There were 14 body content chunks and 14 footnotes found of which 5 contained citations
+    There were 38 body content chunks and 38 footnotes found of which 12 contained citations
+57  There are 1 documents returned by "76 FR 12888"
+    There were 32 body content chunks and 32 footnotes found of which 11 contained citations
+58  There are 1 documents returned by "76 FR 14943"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+59  There are 16 documents returned by "76 FR 25274"
+    There were 183 body content chunks and 183 footnotes found of which 47 contained citations
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 67 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 87 body content chunks and 87 footnotes found of which 16 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 543 body content chunks and 543 footnotes found of which 315 contained citations
+    There were 91 body content chunks and 91 footnotes found of which 35 contained citations
+    There were 204 body content chunks and 204 footnotes found of which 60 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+    There were 63 body content chunks and 63 footnotes found of which 16 contained citations
+    There were 157 body content chunks and 157 footnotes found of which 33 contained citations
+    There were 48 body content chunks and 48 footnotes found of which 21 contained citations
+    There were 44 body content chunks and 44 footnotes found of which 2 contained citations
+60  There are 2 documents returned by "76 FR 22833"
+    There were 713 body content chunks and 687 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 660|| 8. Daily Trading Records    Pursuant to section CEA 4s(g), the Commission adopted regulation 23.202, which requires swap dealers and MSPs to maintain daily trading records, including records of trade information related to pre-execution, execution, and post-execution data that is needed to conduct a comprehensive and accurate trade reconstruction for each swap. The final rule also requires that records be kept of cash or forward transactions used to hedge, mitigate the risk of, or offset any swap held by the swap dealer or MSP.\661
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 661||     Pursuant to CEA section 4s(h), the Commission has adopted external business conduct rules, which establish business conduct standards governing the conduct of swap dealers and MSPs in dealing with their counterparties in entering into swaps.\662
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 662|| ------------------------------------------------------------------------ ------------------------------------------------------------------------U.S. Swap Dealer or MSP (including an    Apply. affiliate of a non-U.S. person). Also applies when acting through a foreign branch.\1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 663|| Non-U.S. Swap Dealer or MSP (including   First Category: \2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 664|| Substituted an affiliate of a U.S. person)..         Compliance.                                         Second Category: \3
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 157 contained citations
+    There were 95 body content chunks and 94 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 15 contained citations
+61  There are 9 documents returned by "76 FR 29818"
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 87 body content chunks and 87 footnotes found of which 16 contained citations
+    There were 543 body content chunks and 543 footnotes found of which 315 contained citations
+    There were 72 body content chunks and 72 footnotes found of which 10 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+    There were 46 body content chunks and 46 footnotes found of which 14 contained citations
+    There were 157 body content chunks and 157 footnotes found of which 33 contained citations
+62  There are 3 documents returned by "76 FR 35372"
+    There were 72 body content chunks and 72 footnotes found of which 10 contained citations
+    There were 157 body content chunks and 157 footnotes found of which 33 contained citations
+    There were 48 body content chunks and 48 footnotes found of which 21 contained citations
+63  There are 4 documents returned by "76 FR 7976"
+    There were 245 body content chunks and 245 footnotes found of which 115 contained citations
+    There were 248 body content chunks and 247 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 135 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+    There were 566 body content chunks and 566 footnotes found of which 208 contained citations
+64  There are 1 documents returned by "76 FR 32880"
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+65  There are 12 documents returned by "76 FR 33066"
+    There were 108 body content chunks and 108 footnotes found of which 42 contained citations
+    There were 146 body content chunks and 146 footnotes found of which 35 contained citations
+    There were 23 body content chunks and 23 footnotes found of which 6 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 127 body content chunks and 127 footnotes found of which 44 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 248 body content chunks and 247 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 135 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+    There were 112 body content chunks and 112 footnotes found of which 43 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 32 body content chunks and 32 footnotes found of which 1 contained citations
+66  There are 0 documents returned by "76 FR 35141"
+67  There are 3 documents returned by "76 FR 33818"
+    There were 146 body content chunks and 146 footnotes found of which 35 contained citations
+    There were 332 body content chunks and 332 footnotes found of which 93 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+68  There are 1 documents returned by "76 FR 53162"
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+69  There are 0 documents returned by "76 FR 44508"
+70  There are 3 documents returned by "76 FR 45724"
+    There were 127 body content chunks and 127 footnotes found of which 44 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+71  There are 3 documents returned by "76 FR 45730"
+    There were 127 body content chunks and 127 footnotes found of which 44 contained citations
+    There were 228 body content chunks and 228 footnotes found of which 103 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+72  There are 8 documents returned by "76 FR 58186"
+    There were 305 body content chunks and 305 footnotes found of which 227 contained citations
+    There were 174 body content chunks and 174 footnotes found of which 74 contained citations
+    There were 263 body content chunks and 259 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 103||                       Table 4--Interest Rate Swaps Notional and Trade Count by Class \104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 104|| ----------------------------------------------------------------------------------------------------------------                                       Notional amount     Gross notional                      Total trade count             Swap class                   (USD BNs)       percent of total  Total trade count   percent of total----------------------------------------------------------------------------------------------------------------Fixed-to-Floating...................            299,818                 60          3,239,092                 75FRA.................................             67,145                 13            202,888                  5OIS.................................             43,634                  9            109,704                  3Basis...............................             27,593                  5            119,683                  3Other \105
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 105||      Total...........................            503,879                100          4,289,004                100----------------------------------------------------------------------------------------------------------------\104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 106|| TriOptima data, as of March 16, 2012. See Section II.F below for a description of the TriOptima data. The  TriOptima data provided information on nine other classes of swaps, none of which is included in the IRS  submissions.\105
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 107||     For purposes of the clearing requirement determination, the Commission developed the following class definitions based on information provided by the submitting DCOs and market conventions.    1. ``Fixed-to-floating swap'': A swap in which the payment or payments owed for one leg of the swap is calculated using a fixed rate and the payment or payments owed for the other leg are calculated using a floating rate.    2. ``Floating-to-floating swap'' or ``basis swap'': A swap in which the payments for both legs are calculated using floating rates.    3. ``Forward Rate Agreement'' or ``FRA'': A swap in which payments are exchanged on a pre-determined date for a single specified period and one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate that is set on a pre-determined date.    4. ``Overnight indexed swap'' or ``OIS'': A swap for which one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate based on a daily overnight rate.    As described in the NPRM, the LCH and CME IRS submissions addressed issues of classification for purposes of the interest rate swap clearing requirement. In its submission, LCH discussed the classification of interest rate swaps and recommended establishing clearing requirements for classes of interest rate swaps. In effect, LCH recommended the use of a set of basic product specifications to identify and describe each class of swaps subject to the clearing requirement. CME recommended a clearing determination for all non-option interest rate swaps denominated in a currency cleared by any qualified DCO.    As an alternative, the Commission considered whether to establish clearing requirements on a product-by-product basis. The Commission noted in the NPRM that such a determination would need to identify the multitude of specifications of each product that would be subject to the clearing requirement. In this regard, LCH stated in its IRS submission that the clearing requirement ``would be sub-optimal for the overall market if participants are forced to read pages of rules to decipher whether or not a swap is required to be cleared, or to have to make complex and time consuming decisions at the point of execution.'' \106
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 60 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 67 contained citations
+    There were 67 body content chunks and 67 footnotes found of which 28 contained citations
+    There were 119 body content chunks and 119 footnotes found of which 69 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+73  There are 2 documents returned by "76 FR 58176"
+    There were 162 body content chunks and 162 footnotes found of which 67 contained citations
+    There were 67 body content chunks and 67 footnotes found of which 28 contained citations
+74  There are 1 documents returned by "76 FR 65999"
+    There were 72 body content chunks and 72 footnotes found of which 10 contained citations
+75  There are 2 documents returned by "75 FR 78892"
+    There were 95 body content chunks and 94 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 15 contained citations
+    There were 23 body content chunks and 23 footnotes found of which 1 contained citations
+76  There are 3 documents returned by "76 FR 11701"
+    There were 33 body content chunks and 33 footnotes found of which 5 contained citations
+    There were 23 body content chunks and 23 footnotes found of which 6 contained citations
+    There were 248 body content chunks and 247 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 135 contained citations
+77  There are 7 documents returned by "76 FR 77728"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 305 body content chunks and 305 footnotes found of which 227 contained citations
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+    There were 263 body content chunks and 259 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 103||                       Table 4--Interest Rate Swaps Notional and Trade Count by Class \104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 104|| ----------------------------------------------------------------------------------------------------------------                                       Notional amount     Gross notional                      Total trade count             Swap class                   (USD BNs)       percent of total  Total trade count   percent of total----------------------------------------------------------------------------------------------------------------Fixed-to-Floating...................            299,818                 60          3,239,092                 75FRA.................................             67,145                 13            202,888                  5OIS.................................             43,634                  9            109,704                  3Basis...............................             27,593                  5            119,683                  3Other \105
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 105||      Total...........................            503,879                100          4,289,004                100----------------------------------------------------------------------------------------------------------------\104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 106|| TriOptima data, as of March 16, 2012. See Section II.F below for a description of the TriOptima data. The  TriOptima data provided information on nine other classes of swaps, none of which is included in the IRS  submissions.\105
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 107||     For purposes of the clearing requirement determination, the Commission developed the following class definitions based on information provided by the submitting DCOs and market conventions.    1. ``Fixed-to-floating swap'': A swap in which the payment or payments owed for one leg of the swap is calculated using a fixed rate and the payment or payments owed for the other leg are calculated using a floating rate.    2. ``Floating-to-floating swap'' or ``basis swap'': A swap in which the payments for both legs are calculated using floating rates.    3. ``Forward Rate Agreement'' or ``FRA'': A swap in which payments are exchanged on a pre-determined date for a single specified period and one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate that is set on a pre-determined date.    4. ``Overnight indexed swap'' or ``OIS'': A swap for which one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate based on a daily overnight rate.    As described in the NPRM, the LCH and CME IRS submissions addressed issues of classification for purposes of the interest rate swap clearing requirement. In its submission, LCH discussed the classification of interest rate swaps and recommended establishing clearing requirements for classes of interest rate swaps. In effect, LCH recommended the use of a set of basic product specifications to identify and describe each class of swaps subject to the clearing requirement. CME recommended a clearing determination for all non-option interest rate swaps denominated in a currency cleared by any qualified DCO.    As an alternative, the Commission considered whether to establish clearing requirements on a product-by-product basis. The Commission noted in the NPRM that such a determination would need to identify the multitude of specifications of each product that would be subject to the clearing requirement. In this regard, LCH stated in its IRS submission that the clearing requirement ``would be sub-optimal for the overall market if participants are forced to read pages of rules to decipher whether or not a swap is required to be cleared, or to have to make complex and time consuming decisions at the point of execution.'' \106
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 60 contained citations
+    There were 48 body content chunks and 48 footnotes found of which 4 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+    There were 1010 body content chunks and 1010 footnotes found of which 566 contained citations
+78  There are 1 documents returned by "77 FR 13450"
+    There were 217 body content chunks and 217 footnotes found of which 60 contained citations
+79  There are 1 documents returned by "77 FR 28819"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+80  There are 0 documents returned by "77 FR 26709"
+81  There are 18 documents returned by "77 FR 30596"
+    There were 57 body content chunks and 57 footnotes found of which 7 contained citations
+    There were 98 body content chunks and 98 footnotes found of which 56 contained citations
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+    There were 407 body content chunks and 407 footnotes found of which 93 contained citations
+    There were 183 body content chunks and 183 footnotes found of which 47 contained citations
+    There were 100 body content chunks and 100 footnotes found of which 33 contained citations
+    There were 713 body content chunks and 687 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 660|| 8. Daily Trading Records    Pursuant to section CEA 4s(g), the Commission adopted regulation 23.202, which requires swap dealers and MSPs to maintain daily trading records, including records of trade information related to pre-execution, execution, and post-execution data that is needed to conduct a comprehensive and accurate trade reconstruction for each swap. The final rule also requires that records be kept of cash or forward transactions used to hedge, mitigate the risk of, or offset any swap held by the swap dealer or MSP.\661
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 661||     Pursuant to CEA section 4s(h), the Commission has adopted external business conduct rules, which establish business conduct standards governing the conduct of swap dealers and MSPs in dealing with their counterparties in entering into swaps.\662
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 662|| ------------------------------------------------------------------------ ------------------------------------------------------------------------U.S. Swap Dealer or MSP (including an    Apply. affiliate of a non-U.S. person). Also applies when acting through a foreign branch.\1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 663|| Non-U.S. Swap Dealer or MSP (including   First Category: \2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 664|| Substituted an affiliate of a U.S. person)..         Compliance.                                         Second Category: \3
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 157 contained citations
+    There were 33 body content chunks and 33 footnotes found of which 5 contained citations
+    There were 162 body content chunks and 162 footnotes found of which 55 contained citations
+    There were 44 body content chunks and 44 footnotes found of which 2 contained citations
+    There were 108 body content chunks and 108 footnotes found of which 42 contained citations
+    There were 32 body content chunks and 32 footnotes found of which 11 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 67 body content chunks and 67 footnotes found of which 28 contained citations
+    There were 119 body content chunks and 119 footnotes found of which 69 contained citations
+    There were 48 body content chunks and 48 footnotes found of which 4 contained citations
+    There were 0 body content chunks and 0 footnotes found of which 0 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+82  There are 1 documents returned by "77 FR 41940"
+    There were 100 body content chunks and 100 footnotes found of which 33 contained citations
+83  There are 0 documents returned by "77 FR 47169"
+84  There are 0 documents returned by "77 FR 41109"
+85  There are 3 documents returned by "77 FR 50425"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 174 body content chunks and 174 footnotes found of which 74 contained citations
+    There were 263 body content chunks and 259 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 103||                       Table 4--Interest Rate Swaps Notional and Trade Count by Class \104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 104|| ----------------------------------------------------------------------------------------------------------------                                       Notional amount     Gross notional                      Total trade count             Swap class                   (USD BNs)       percent of total  Total trade count   percent of total----------------------------------------------------------------------------------------------------------------Fixed-to-Floating...................            299,818                 60          3,239,092                 75FRA.................................             67,145                 13            202,888                  5OIS.................................             43,634                  9            109,704                  3Basis...............................             27,593                  5            119,683                  3Other \105
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 105||      Total...........................            503,879                100          4,289,004                100----------------------------------------------------------------------------------------------------------------\104
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 106|| TriOptima data, as of March 16, 2012. See Section II.F below for a description of the TriOptima data. The  TriOptima data provided information on nine other classes of swaps, none of which is included in the IRS  submissions.\105
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 107||     For purposes of the clearing requirement determination, the Commission developed the following class definitions based on information provided by the submitting DCOs and market conventions.    1. ``Fixed-to-floating swap'': A swap in which the payment or payments owed for one leg of the swap is calculated using a fixed rate and the payment or payments owed for the other leg are calculated using a floating rate.    2. ``Floating-to-floating swap'' or ``basis swap'': A swap in which the payments for both legs are calculated using floating rates.    3. ``Forward Rate Agreement'' or ``FRA'': A swap in which payments are exchanged on a pre-determined date for a single specified period and one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate that is set on a pre-determined date.    4. ``Overnight indexed swap'' or ``OIS'': A swap for which one leg of the swap is calculated using a fixed rate and the other leg is calculated using a floating rate based on a daily overnight rate.    As described in the NPRM, the LCH and CME IRS submissions addressed issues of classification for purposes of the interest rate swap clearing requirement. In its submission, LCH discussed the classification of interest rate swaps and recommended establishing clearing requirements for classes of interest rate swaps. In effect, LCH recommended the use of a set of basic product specifications to identify and describe each class of swaps subject to the clearing requirement. CME recommended a clearing determination for all non-option interest rate swaps denominated in a currency cleared by any qualified DCO.    As an alternative, the Commission considered whether to establish clearing requirements on a product-by-product basis. The Commission noted in the NPRM that such a determination would need to identify the multitude of specifications of each product that would be subject to the clearing requirement. In this regard, LCH stated in its IRS submission that the clearing requirement ``would be sub-optimal for the overall market if participants are forced to read pages of rules to decipher whether or not a swap is required to be cleared, or to have to make complex and time consuming decisions at the point of execution.'' \106
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 60 contained citations
+86  There are 2 documents returned by "77 FR 48207"
+    There were 146 body content chunks and 146 footnotes found of which 35 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+87  There are 1 documents returned by "78 FR 43785"
+    There were 68 body content chunks and 68 footnotes found of which 4 contained citations
+88  There are 1 documents returned by "78 FR 50260"
+    There were 326 body content chunks and 326 footnotes found of which 78 contained citations
+89  There are 0 documents returned by "78 FR 75680"
+90  There are 0 documents returned by "79 FR 5223"
+91  There are 0 documents returned by "79 FR 37973"
+92  There are 0 documents returned by "75 FR 70973"
+93  There are 9 documents returned by "75 FR 80572"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
+    There were 127 body content chunks and 127 footnotes found of which 44 contained citations
+    There were 576 body content chunks and 572 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 518|| hedging needs increase. If a bona fide hedger seeks an exemption for anticipated commercial production or anticipatory commercial requirements, then the hedger would submit a 404A filing pursuant to Sec.  151.5(c).    Under the Proposed Rules, 404 and 404S filings would have been required on a daily basis. In light of comments concerning the burden of daily filings to both market participants and the Commission, the final regulations require only monthly reporting of 404 and 404S filings. These monthly reports would provide information on daily positions for the month reporting period.    The Commission estimated in the Proposed Rules that these bona fide hedging-related reporting requirements would affect approximately two hundred entities annually and result in a total burden of approximately $37.6 million across all of these entities, 168,000 annual labor hours, resulting in a total of $13.2 million in annual labor costs and $25.4 million in annualized capital, start-up, total operating, and maintenance costs. As a result of modifications made to the Proposed Rules, under the final regulations these bona fide hedging-related reporting requirements will affect approximately two hundred entities annually and result in a total burden of approximately $28.6 million across all of these entities, 29,700 annual labor hours, resulting in a total of $2.3 million in annual labor costs and $26.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404 filings, under the Proposed Rules, the Commission estimated that 404 filing requirements would affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404 filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 108,000 total annual labor hours and $11.7 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404A filings, under the Proposed Rules, the Commission estimated that 404A filing requirements would affect approximately sixty entities annually, resulting in a total burden, across all of these entities, of 6,000 total annual labor hours and $4.2 million in annualized capital, start-up, total operating, and maintenance costs. In addition to adjustments in these estimates stemming from the change in the frequency of filings, the estimate of entities affected by 404A filing requirements has been modified to reflect the fact that the final regulations include certain anticipatory hedging exemptions that were absent from the Proposed Rules. Thus, under the final regulations, 404A filing requirements will affect approximately ninety entities annually, resulting in a total burden, across all of these entities, of 2,700 total annual labor hours and $6.3 million in annualized capital, start-up, total operating, and maintenance costs.    With regard to 404S filings, under the Proposed Rules the Commission estimated that 404S filing requirements would affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 54,000 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs. Under the final regulations, 404S filing requirements will affect approximately forty-five entities annually, resulting in a total burden, across all of these entities, of 16,200 total annual labor hours and $9.5 million in annualized capital, start-up, total operating, and maintenance costs.    Section 151.5(e) specifies recordkeeping requirements for traders who claim bona fide hedge exemptions. These recordkeeping requirements include complete books and records concerning all of their related cash, futures, and swap positions and transactions and make such books and records, along with a list of swap counterparties to the Commission. Regulations 151.5(g) and 151.5(h) provide procedural documentation requirements for those availing themselves of a bona fide hedging transaction exemption. These firms would be required to document a representation and confirmation by at least one party that the swap counterparty is relying on a bona fide hedge exemption, along with a confirmation of receipt by the other party to the swap. Paragraph (h) of Sec.  151.5 also requires that the written representation and confirmation be retained by the parties and available to the Commission upon request.\519
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 519||     Section 151.6 requires traders with positions exceeding visibility levels in Referenced Contracts in metal and energy commodities to submit additional information about cash market and derivatives activity in substantially the same commodity. Section 151.6(b) requires the submission of a 401 filing which would provide basic position information on the position exceeding the visibility level. Section151.6(c) requires additional information, through a 402S filing, on a trader's uncleared swaps in substantially the same commodity. The Commission has determined to increase the visibility levels from the proposed levels, meaning fewer market participants will be affected by the relevant reporting requirements. In addition, the Proposed Rules included a requirement to submit 404A filings under proposed Sec.  151.6, but the Commission has eliminated this requirement in order to reduce the compliance burden for firms reporting under Sec.  151.6.    Requirements under 401 filing reporting regulations in the Proposed Rules would have affected approximately one hundred forty entities annually, resulting in a total burden, across all of these entities, of 16,800 total annual labor hours and $15.4 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, these requirements will affect approximately seventy entities annually, resulting in a total burden, across all of these entities, of 8,400 total annual labor hours and $5.3 million in annualized capital, start-up, total operating, and maintenance costs.    Requirements under 402S filing reporting regulations in the Proposed Rules would have affected approximately seventy entities annually, resulting in a total burden, across all of these entities, of 5,600 total annual labor hours and $4.9 million in annualized capital, start-up, total operating, and maintenance costs. In the final regulations, the Commission has eliminated the 402S filing, thus eliminating any burden stemming from such reports.    Requirements under visibility level-related 404 filing reporting regulations \520
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 520||                                            Speculative Position Limits----------------------------------------------------------------------------------------------------------------                                                                        Limits by number of contracts----------------------------------------------------------------------------------------------------------------                         Contract                              Spot month       Single month       All months----------------------------------------------------------------------------------------------------------------                                             Chicago Board of Trade----------------------------------------------------------------------------------------------------------------Corn and Mini-Corn \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 521|| ....................................               600            33,000            33,000Oats......................................................               600             2,000             2,000Soybeans and Mini-Soybeans \1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 522|| ............................               600            15,000            15,000Wheat and Mini-Wheat \1
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 259 contained citations
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+94  There are 0 documents returned by "76 FR 18536"
+95  There are 0 documents returned by "77 FR 52137"
+96  There are 1 documents returned by "78 FR 20848"
+    There were 14 body content chunks and 14 footnotes found of which 1 contained citations
+97  There are 0 documents returned by "76 FR 4569"
+98  There are 2 documents returned by "76 FR 8068"
+    There were 248 body content chunks and 247 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 135 contained citations
+    There were 566 body content chunks and 566 footnotes found of which 208 contained citations
+99  There are 3 documents returned by "76 FR 77670"
+    There were 25 body content chunks and 25 footnotes found of which 5 contained citations
+    There were 1472 body content chunks and 1472 footnotes found of which 573 contained citations
+    There were 25 body content chunks and 25 footnotes found of which 1 contained citations
+100  There are 0 documents returned by "77 FR 23520"
+101  There are 1 documents returned by "77 FR 35892"
+    There were 33 body content chunks and 33 footnotes found of which 5 contained citations
+102  There are 1 documents returned by "79 FR 2394"
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+103  There are 2 documents returned by "75 FR 78185"
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+    There were 20 body content chunks and 20 footnotes found of which 3 contained citations
+104  There are 1 documents returned by "76 FR 14825"
+    There were 623 body content chunks and 622 footnotes found 
+        ##################### Body Content TESTER #######################
+        No alignment errors found
+     of which 323 contained citations
+105  There are 1 documents returned by "76 FR 16588"
+    There were 341 body content chunks and 341 footnotes found of which 113 contained citations
+106  There are 0 documents returned by "76 FR 47529"
+107  There are 2 documents returned by "77 FR 38229"
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 711 body content chunks and 711 footnotes found of which 171 contained citations
+108  There are 1 documents returned by "79 FR 16672"
+    There were 27 body content chunks and 27 footnotes found of which 3 contained citations
+109  There are 71 documents returned by "78 FR 17"
+    There were 52 body content chunks and 52 footnotes found of which 8 contained citations
+    There were 14 body content chunks and 14 footnotes found of which 3 contained citations
+    There were 57 body content chunks and 57 footnotes found of which 7 contained citations
+    There were 98 body content chunks and 98 footnotes found of which 56 contained citations
+    There were 3 body content chunks and 3 footnotes found of which 0 contained citations
+    There were 1 body content chunks and 1 footnotes found of which 0 contained citations
+    There were 27 body content chunks and 27 footnotes found of which 3 contained citations
+    There were 0 body content chunks and 0 footnotes found of which 0 contained citations
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+    There were 326 body content chunks and 326 footnotes found of which 78 contained citations
+    There were 803 body content chunks and 800 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 175||     With respect to the reduction of the timeframe in Sec.  1.17(c)(5)(viii) for an FCM to incur a capital charge for undermargined customer accounts, the Commission has considered the comments and has determined to adopt the amendments as proposed. The timely collection of margin is a critical component of an FCM's risk management program and is intended to ensure that an FCM holds sufficient funds deposited by customers to meet their potential obligations to a DCO. As guarantor of the financial performance of the customer accounts that it carries, the FCM is financially responsible if the owner of an account cannot meet its margin obligations to the FCM and ultimately to a DCO.    The timeframe for meeting margin calls currently provided in Sec.  1.17(c)(5)(viii) was established in the 1970s when the use of checks and the mail system were more prevalent for depositing margin with an FCM. However, in today's markets, with the increasing use of technology, 24-hour-a-day trading, and the use of wire transfers to meet margin obligations, the Commission believes that the timeframe for taking a capital charge should be reduced both to give an incentive to FCMs to exercise prudent risk management and to strengthen the financial protections of FCMs, and to enhance the safety of the clearing systems and other customers by requiring FCMs to reserve capital for undermargined customer accounts that fail to meet a margin call on a timely basis.    Several commenters have stated that the proposal would harm customers by increasing costs to customers or by exposing more of the customers' funds to the FCM.\176
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 176|| proposed. As noted above, Sec.  1.17(c)(5)(ix) applies to noncustomers and omnibus accounts carried by an FCM. Many of the concerns raised by the comments regarding the ability to fund a margin call under Sec.  1.17(c)(5)(viii) do not apply to accounts held by an affiliate or an omnibus accounts. Such accounts should pay margin calls promptly and by wire transfer to reduce the potential exposure to the FCM resulting from undermargined accounts.    The Commission also believes that the amendments to Sec.  1.17(c)(5)(viii) and (ix) are appropriate even if the Commission amends its regulations to require an FCM to maintain residual interest in segregated accounts in excess of the undermargined amount of customer accounts. The purpose of the capital rule is to ensure that an FCM maintains sufficient liquid assets to meet its obligations as a going concern. Proprietary funds held in segregated accounts that exceed the total obligation to customers are included in an FCM's capital computation. However, in situations where the FCM's residual interest in segregated accounts is covering an undermargined customer account, a capital charge is appropriate because the FCM's residual interest is necessary to cover potential market losses on the undermargined accounts.3. Permit an FCM That Is Not a BD To Develop Policies and Procedures To Determine Creditworthiness    The Commissions proposed to amend Sec.  1.17(c)(v) to permit an FCM that is not a BD to develop a framework to establish, maintain and enforce written policies and procedures for determining creditworthiness of commercial paper, convertible debt, and nonconvertible debt instruments that are readily marketable. In recommending the proposal, the Commission noted that the SEC proposed to permit a BD to establish written policies and procedures to assess the credit risk of commercial paper, convertible debt, and nonconvertible debt instruments that are readily marketable.\177
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 177||     Under both the Commission's proposal and the SEC's proposal, an FCM or BD would assess the security's credit risk using the following factors, to the extent appropriate:    <bullet> Credit spreads (i.e., whether it is possible to demonstrate that a position in commercial paper, nonconvertible debt, and preferred stock is subject to a minimal amount of credit risk based on the spread between the security's yield and the yield of Treasury or other securities, or based on credit default swap spreads that reference the security);    <bullet> Securities-related research (i.e., whether providers of securities-related research believe the issuer of the security will be able to meet its financial commitments, generally, or specifically, with respect to securities held by the FCM or BD);    <bullet> Internal or external credit risk assessments (i.e., whether credit assessments developed internally by the FCM or BD or externally by a credit rating agency, irrespective of its status as an NRSRO, express a view as to the credit risk associated with a particular security);    <bullet> Default statistics (i.e., whether providers of credit information relating to securities express a view that specific securities have a probability of default consistent with other securities with a minimal amount of credit risk);    <bullet> Inclusion on an index (i.e., whether a security, or issuer of the security, is included as a component of a recognized index of instruments that are subject to a minimal amount of credit risk);    <bullet> Priorities and enhancements (i.e., the extent to which a security is covered by credit enhancements, such as overcollateralization and reserve accounts, or has priority under applicable bankruptcy or creditors' rights provisions);    <bullet> Price, yield and/or volume (i.e., whether the price and yield of a security or a credit default swap that references the security are consistent with other securities that the FCM or BD has determined are subject to a minimal amount of credit risk and whether the price resulted from active trading); and    <bullet> Asset class-specific factors (e.g., in the case of structured finance products, the quality of the underlying assets).    An FCM that maintains written policies and procedures and determines that the credit risk of a security is minimal is permitted under the proposal to apply the lesser haircut requirement currently specified in the SEC capital rule for commercial paper (i.e., between zero and \1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 178|| of 1 percent), nonconvertible debt (i.e., between 2 percent and 9 percent), and preferred stock (i.e., 10 percent).    The CFA does not believe it is appropriate for FCMs to use internal models to determine minimum required capital.\178
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 179|| The CFA believes that capital models should be established by the relevant regulatory agencies for use by FCMs or BDs.\179
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 484 contained citations
+    There were 14 body content chunks and 14 footnotes found of which 1 contained citations
+    There were 0 body content chunks and 0 footnotes found of which 0 contained citations
+    There were 713 body content chunks and 687 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 660|| 8. Daily Trading Records    Pursuant to section CEA 4s(g), the Commission adopted regulation 23.202, which requires swap dealers and MSPs to maintain daily trading records, including records of trade information related to pre-execution, execution, and post-execution data that is needed to conduct a comprehensive and accurate trade reconstruction for each swap. The final rule also requires that records be kept of cash or forward transactions used to hedge, mitigate the risk of, or offset any swap held by the swap dealer or MSP.\661
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 661||     Pursuant to CEA section 4s(h), the Commission has adopted external business conduct rules, which establish business conduct standards governing the conduct of swap dealers and MSPs in dealing with their counterparties in entering into swaps.\662
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 662|| ------------------------------------------------------------------------ ------------------------------------------------------------------------U.S. Swap Dealer or MSP (including an    Apply. affiliate of a non-U.S. person). Also applies when acting through a foreign branch.\1
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 663|| Non-U.S. Swap Dealer or MSP (including   First Category: \2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 664|| Substituted an affiliate of a U.S. person)..         Compliance.                                         Second Category: \3
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 157 contained citations
+    There were 68 body content chunks and 68 footnotes found of which 4 contained citations
+    There were 0 body content chunks and 0 footnotes found of which 0 contained citations
+    There were 331 body content chunks and 331 footnotes found of which 109 contained citations
+    There were 407 body content chunks and 407 footnotes found of which 93 contained citations
+    There were 183 body content chunks and 183 footnotes found of which 47 contained citations
+    There were 25 body content chunks and 25 footnotes found of which 5 contained citations
+    There were 100 body content chunks and 100 footnotes found of which 33 contained citations
+    There were 245 body content chunks and 245 footnotes found of which 115 contained citations
+    There were 223 body content chunks and 223 footnotes found of which 29 contained citations
+    There were 1153 body content chunks and 1153 footnotes found of which 580 contained citations
+    There were 305 body content chunks and 305 footnotes found of which 227 contained citations
+110  There are 2 documents returned by "75 FR 67254"
+    There were 204 body content chunks and 204 footnotes found of which 60 contained citations
+    There were 15 body content chunks and 15 footnotes found of which 0 contained citations
+111  There are 0 documents returned by "77 FR 20613"
+112  There are 0 documents returned by "76 FR 27621"
+113  There are 2 documents returned by "76 FR 1603"
+    There were 2852 body content chunks and 2850 footnotes found 
+        ##################### Body Content TESTER #######################
+ ~~# Error Chunk -2, index: 345|| For example, two commenters requested that the definition explicitly include all offerings of securities by an issuer.\346
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk -1, index: 346|| One of these commenters further requested a broader definition that would include any offering by a selling security holder that is registered under the Securities Act or that involves an offering document prepared by the issuer.\347
+ ~~~~~~~~~~~~~~
+ ### ERROR CHUNK ###, index: 347|| Another commenter suggested that the rule explicitly authorize certain forms of offerings, such as offerings under Rule 144A, Regulation S, Rule 101(b)(10) of Regulation M, or the so-called ``section 4(1\1/2
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +1, index: 348|| )'' of the Securities Act, as well as transactions on behalf of selling security holders.\348
+ ~~~~~~~~~~~~~~
+ ~~# Error Chunk +2, index: 349|| Two commenters proposed approaches that would include the resale of notes or other debt securities received by a banking entity from a borrower to replace or refinance a bridge loan.\349
+ ~~~~~~~~~~~~~~
+        No alignment errors found
+     of which 1764 contained citations
+    There were 1663 body content chunks and 1663 footnotes found of which 733 contained citations
