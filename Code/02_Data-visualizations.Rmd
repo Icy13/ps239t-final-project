@@ -9,11 +9,19 @@ output: html_document
 
 ```{r message=FALSE}
 rm(list=ls())
-setwd("C:/Dropbox/_Berkeley/_Fall 2015/PS 239T - Computational Methods/ps239t-final-project/Data")
 
+##laptop wd
+#setwd("C:/Dropbox/_Berkeley/_Fall 2015/PS 239T - Computational Methods/ps239t-final-project/Data")
+
+##desktop wd
+setwd("D:/Konrads Word f/_Classes f/Dropbox/_Berkeley/_Fall 2015/PS 239T - Computational Methods/ps239t-final-project/Data")
+
+#just in case they arent already
+# install.packages(c("ggplot2","tm","qdap"))
 
 library(ggplot2)
 library(tm)
+library(qdap)
 ```
 
 
@@ -24,15 +32,15 @@ The CFTC provided all comments submitted during the public comment periods on al
 ```{r}
 # load data
 cftc.Comments <- read.csv("CFTC_Comments_with_KSC+VA_coding.csv", stringsAsFactors = FALSE) ##These are the comments on proposed legislation
-cftc.Citations <- read.csv("(2015-12-07)Test_Run_of_All__Errors_but_no_exception.csv")
+cftc.Citations <- read.csv("(2015-12-07)Test_Run_of_All__Errors_but_no_exception.csv") #these are the citations
 
-# see a truncated version of the data
+# see the headings of the data
 names(cftc.Comments)
 names(cftc.Citations)
 
 ```
 
-We can note that there are a whole helluvalot of meta-data variables which I have been using to track various coding projects which have been done to the original raw data.  Excel may have its downsides, but it really is quite powerful for containing an audit trail if you construct one manually.  Jus' sayin'
+We can note that there are a whole helluvalot of meta-data variables in the comments which I have been using to track various coding projects which have been done to the original raw data.  Excel may have its downsides, but it really is quite powerful for containing an audit trail if you construct one manually.  Jus' sayin'
 
 In any case, we don't need all that audit trail, so we'll subset the interesting parts
 
@@ -41,74 +49,195 @@ In any case, we don't need all that audit trail, so we'll subset the interesting
 cftc.Comments.clean <- subset(cftc.Comments, select=c(ControlNumberID,UniqueName,SubmitDate,LastName,FirstName,Organization, VA.KSC.Classification, Rule.Super.set..from.Memo.Title.))
 
 # see a truncated version of this now smaller data
-head(cftc.Comments.clean,10)
+head(truncdf(cftc.Comments.clean,10))
 
 ```
 
-# 2. Cleaning up the 'ExtractedText' Comment Data and Sampling a Subset
+# 2. What types of organizations comment on Dodd-Frank rules at the CFTC?
 
-We can see more clearly now that the comment letters in the `ExtractedText` variable have quite a bit of messy puntuation at their beginning and end.  However, we're simply going to accept that fact for this initial analysis.  There is not reason to expect that the dirtiness is correlated with any particular type of commenter, so we'll just accept it as stochastic noise.  Not unchallengable, but reasonable enough for the purposes of this demonstration.
+For better or worse, the null hypothesis in all studies of regulation has become that of "capture," or that regulators only listen to the the input of the regulated entitites (generally businesses) when crafting legislation.  The literature on regulation places great emphasis on the relative influence of concentrated industry groups vs. broader public participation in the administrative arena.  This project addresses these debates by examining the implementation of a large and highly salient regulatory change: the Dodd-Frank Act of 2010.   In particular, this project analyzes a dataset of public comments on proposed rules to create a new regime for trading of derivatives.   Our dataset includes a complete record of the 36,066 public comments submitted to the Commodity Futures Trading Commission (CFTC) concerning Dodd-Frank over a 42 month period (January 14, 2010 to July 16, 2014).
 
-We also know that `sentences` and `polarity` take forever to run.  This is not my processer, simply that a lot is happening.  So, we're gonna have to sample before we make sentences so that we have a smaller dataset to do the heavy lifting on.
+To examine post-enactment politics, and critdue the null hypothesis of capture, we develop a 17 group commenter typology of industry segments and non-industry groups with greater granularity than studies of implementation have used to date.  With this fine-grained typology, we are able to show whether incumbent suppliers of financial services, their customers, their challengers, academic experts, or citizens groups play a larger role in the post-enactment politics that shape the implementation of new rules.  
+
+Our data and typology also allow us to compare patterns between different rules within the larger Dodd-Frank rulemaking regime.
+
+## 2.1 First, we need to see who comments based on coding the "Organization" value to the 17-part typology
+
+The best way to view comparable parts of a whole are with stack bar-charts.  We'll use ggplot to generate these based on the overall list of comments which had an organization value and which were coded to the typology by two coders, KSC and VA.  Disagreements between the coders was reconciled by discussion with the author and a final coding decision was made.  This final coding is represented in the variable `VA.KSC.Classification`
+```{r}
+cftc.Comments.coded <- subset(cftc.Comments.clean,VA.KSC.Classification!="")
+nrow(cftc.Comments.coded)
+```
+We can see that of the 37232 comments in cftc.Comments.clean, only 8568 had an organization value provided by the commenter.  We have dropped the other 28664 comments from the analysis.  We have no reason to believe that these cases should bias the results since there is no reason to expect that any member of our typology (other than the residual category "Other Individual") would be more or less likely to omit the organization value.  Thus, at worst, these results *overestimate* the influence of business because they might systematically undercount the comments of individuals.  Since the null hypothesis is business dominance, an undercount makes it harder to reject, making our findings more robust should they find a lack of business dominance.
+
+Next, we need to fix some typos in the coding dealing with capitalization and plurals
+```{r}
+unique(cftc.Comments.coded$VA.KSC.Classification)
+# Fix the erroneous "Other Sell-Side" to the correct "Other Sell-Side Bank"
+cftc.Comments.coded$VA.KSC.Classification[cftc.Comments.coded$VA.KSC.Classification == "Other Sell-Side"] <- "Other Sell-Side Bank"
+
+# Fix the erroneous "Private Asset Managers" to the correct "Private Asset Manager"
+cftc.Comments.coded$VA.KSC.Classification[cftc.Comments.coded$VA.KSC.Classification == "Private Asset Managers"] <- "Private Asset Manager"
+
+# Fix the erroneous "Academic or other expert" to the correct "Academic or Other Expert"
+cftc.Comments.coded$VA.KSC.Classification[cftc.Comments.coded$VA.KSC.Classification == "Academic or other expert"] <- "Academic or Other Expert"
+
+# now, verify that we indeed have out 17 level typology:
+unique(cftc.Comments.coded$VA.KSC.Classification)
+
+# Change the excel "#N/A" to the r NA object
+cftc.Comments.coded[cftc.Comments.coded == "#N/A"] <- NA
+```
+
+## 2.2 Stacked bar chart based on the 17-part typology
+Now, for representativeness, we need to convert the 17 part typology into a factor because the typology was constructed to span a spectrum roughly from industry insider (top) to general public (bottom).
+```{r}
+cftc.Comments.coded$VA.KSC.Classification <- factor(cftc.Comments.coded$VA.KSC.Classification, levels = c(
+  "Major Wall Street Sell-Side Bank",
+"Core Financial Service Trade Association",
+"Other Sell-Side Bank",
+"Public Asset Manager",
+"Private Asset Manager",
+"U.S. Chamber of Commerce or Affiliate",
+"Market Infrastructure Firm",
+"Law Firms, Consultants, and Related Advisors",
+"Non-Financial Firm",
+"Government",
+"Academic or Other Expert",
+"Private-Sector Association",
+"Progressive Advocacy or other Pro-Regulation Group",
+"Trade Union or other Formal Labor Organization",
+"Market Advocacy or other Anti-Regulation Group",
+"Other Individual",
+"Un-Coded"
+))
+```
+Now that we have only the coded cases and have fixed typos in the typology coding, it's time to look at the overall commenter pool based on the typology.  We'll do that with `ggplot2` and group based on the `VA.KSC.Classification`
+```{r}
+all.comments = x=factor("All Rules") ##dummy factor to produce a stacked bar chart with only one bar.
+
+png(filename = "../Results/Comments_all.png", width = 753, height = 578, units = "px")
+ggplot(cftc.Comments.coded, aes(all.comments, fill=VA.KSC.Classification, order=-as.numeric(VA.KSC.Classification))) + geom_bar() + scale_fill_discrete()  + xlab("") + ylab("Number of Comments") +labs(title="All Comments on CFTC Proposed Rules to Implement the Dodd-Frank Act")
+dev.off()
+```
+
+## 2.3 Split out the chart for several important rules
+While, overall, we can see that there is much more going on than just business groups, stack bar charts are really about comparison.  So, lets look at some subsets of the legislation:
+
+Within the wider Dodd-Frank Legislation, there were several particularly publicized rules, such as the the Cross-Border Trading Rules.  Let's see what the mix of commenters looked like for 5 such publicized rules.
+```{r}
+## Comments not part of the publicized rules are coded NA in the dataset, so lets get just the variables we need for just the publicized rules (aka non-NA) 
+rulesData <- na.omit(cftc.Comments.coded[,c("Rule.Super.set..from.Memo.Title.","VA.KSC.Classification")])
+
+##ggplot(rulesData, aes(Rule.Super.set..from.Memo.Title., fill=VA.KSC.Classification,  ##order=-as.numeric(VA.KSC.Classification))) + geom_bar() + scale_fill_discrete()
+
+png(filename = "../Results/Comments_by_Major_Rule.png", width = 753, height = 578, units = "px")
+ggplot(rulesData, aes(Rule.Super.set..from.Memo.Title., fill=VA.KSC.Classification,  order=-as.numeric(VA.KSC.Classification))) + geom_bar()+ theme(axis.text.x=element_text(angle=15,hjust=.75,vjust=1)) + scale_fill_discrete() + xlab("Publicized Rules") + ylab("Number of Comments") +labs(title="Comments on Five Major CFTC Proposed Rules to Implement the Dodd-Frank Act")
+dev.off()
+```
+
+# 3. Code the citation data to the 17 part typology and add in the publicized rules
+The citation database generated by the python script which pulled from the Regulations.gov database provided us with a list of organizations and people identified from the citations.  In order to produce comparable results to the comments data-base, we need to code these entities based on the VA+KSC organization coding.
+
+# 3.1 Import the Organization-->Typology mapping file
+The unique organization values coded by KSC+VA to the 17 part typology are saved as a separate file.
+```{r}
+org.values <- read.csv("Unique_Organization_Values_KSC+VA_coding.csv", stringsAsFactors = FALSE) ##These are the comments
+
+#check the coding, just like in the comment data file
+unique(org.values$VA.KSC.Classification)
+
+# Fix the erroneous "Other Sell-Side" to the correct "Other Sell-Side Bank"
+org.values$VA.KSC.Classification[org.values$VA.KSC.Classification == "Other Sell-Side"] <- "Other Sell-Side Bank"
+
+# Fix the erroneous "Private Asset Managers" to the correct "Private Asset Manager"
+org.values$VA.KSC.Classification[org.values$VA.KSC.Classification == "Private Asset Managers"] <- "Private Asset Manager"
+
+# Fix the erroneous "Academic or other expert" to the correct "Academic or Other Expert"
+org.values$VA.KSC.Classification[org.values$VA.KSC.Classification == "Academic or other expert"] <- "Academic or Other Expert"
+
+# now, verify that we indeed have out 17 level typology:
+unique(org.values$VA.KSC.Classification)
+```
+
+## 3.2 Drop the People, keep only organizations in `cftc.citations`
+
+The API and NER code from python kept both people and organizations, but for comparability with the earlier dataset, we only want the organizations.  So, we need to drop all cases from `cftc.Citations` with `Type="Person"`.  At a later date, it would be interesting to try to match people to organizations based on the comment database, but that is not for now.
+```{r}
+cftc.Citations.orgOnly <- cftc.Citations[cftc.Citations$Type!="Person",]
+```
+
+## 3.3 Create a coded citations database by merging
+
+Now, using the coding from the `org.values` dataframe, we will merge with the `cftc.Citations` dataframe in order to create a `cftc.Citations.coded` dataframe with the same vital column as the `cftc.Comments.code` dataframe, mainly `VA.KSC.CLassification`
 
 ```{r}
-#Since polarity is AMAZINGLY slow on large datasets, lets take a random sample of comments to cut down the size
-set.seed(1234)# for reproducability, we'll set the seed to something so we get the same random sample each time
-cftc.comments.SAMPLE<-cftc.comments[sample(nrow(cftc.comments), 1000),]
-head(truncdf(cftc.comments.SAMPLE),10)
-
-#Lets change the dirty internal coding to something a bit more clear.  Unfortunately, you cannnot change axes labels in polarity plots, I've tried ylab, which you think would work, but it don't. Silly billies
-names(cftc.comments.SAMPLE)[6]<-"CommenterType" 
-
-# split the data into sentences (or, in this case, lines in the comment letters)
-cftc.sentences.SAMPLE <- sentSplit(cftc.comments.SAMPLE, "ExtractedText",verbose=FALSE)
-head(truncdf(cftc.sentences.SAMPLE),10)
+cftc.Citations.orgOnly.coded <- merge(cftc.Citations.orgOnly, org.values, by.x="Name", by.y="Organization")
+head(truncdf(cftc.Citations.orgOnly.coded))
 ```
 
-We can see clearly here that some of the dirtiness has created sentences which are short and garbage (random unicode characters).  We'll throw away some (abitrarily) short sentences to clean stuff up.  This also helps with `polarity`'s exceptional slowness.
+## 3.4 Add in the RuleSuperset
+We also need to code the citations for which of the 5 publicised rules they belong to.  So, we'll use some quick subsetting from the comment database
 
 ```{r}
-# Get rid of a bad character, the ® symbol, which shows up EVERYWHERE!!
-cftc.sentences.SAMPLE.cleaned.STEP1<-cftc.sentences.SAMPLE
-cftc.sentences.SAMPLE.cleaned.STEP1$ExtractedText<-gsub("®","", cftc.sentences.SAMPLE.cleaned.STEP1$ExtractedText)
-head(truncdf(cftc.sentences.SAMPLE.cleaned.STEP1),10)
+# First we get the keyed list of FR references to Rule Memo titles, which are the 5 publicized rules and the multiple FR references which are linked to them.  Should be 114 rows
+publicizedRules <- unique(cftc.Comments.coded[,c("UniqueName","Rule.Super.set..from.Memo.Title.")])
 
-#This has created a lot of whitespace, so let's clean that
-cftc.sentences.SAMPLE.cleaned.STEP1$ExtractedText<-Trim(clean(cftc.sentences.SAMPLE.cleaned.STEP1$ExtractedText))
-head(truncdf(cftc.sentences.SAMPLE.cleaned.STEP1),10)
-
-# Drop anything with less than three words, which are really just junk
-cftc.sentences.SAMPLE.cleaned<-subset(cftc.sentences.SAMPLE.cleaned.STEP1, (nchar(ExtractedText)- nchar(gsub(" ", "", ExtractedText)))>2)
-head(truncdf(cftc.sentences.SAMPLE.cleaned),10)
-
+#now we merge that into the cftc.Citations.orgOnly.coded dataframe
+cftc.Citations.orgOnly.coded <- merge(cftc.Citations.orgOnly.coded, publicizedRules, by.x="Comment_FR_Reference", by.y="UniqueName",all.x = TRUE)
 ```
 
-# 3. Show me the Results!
-The `qdap` package is great for using dictionary methods to analyze text. One of the most popular of these menthods is sentiment analysis, which calculates how "positive" or "negative" text is.
+# 4. What types of organizations are cited by the CFTC on Dodd-Frank implementing Final Rules?
 
-In `qdap`, we analyze sentiment using the `polarity` function to show how positive or negative different types of commenters are when they comment on the Dodd-Frank act implementation at the CFTC.
+Now that the data is prepared, we are ready to make some comparable charts to those we made for the comments.  Although many people comment and are legally allowed to do so, we have many reasons to suspect that not all commenters are given equal weight in drafting the final rule.  THus, by looking at who is cited as an influence on the final rule, we can glimpse what sorts of commenters from our 17 part typology (which ranges from business --> public) are actually "listened to" in the drafting of the final rule.
 
+## 4.1 Who comments based on coding the "Organization" value to the 17-part typology for the whole group
+
+The best way to view comparable parts of a whole are with stacked bar-charts.  We'll use ggplot to generate these based on the overall list of comments which had an organization value and which were coded to the typology by two coders, KSC and VA.  Disagreements between the coders was reconciled by discussion with the author and a final coding decision was made.  This final coding is represented in the variable `VA.KSC.Classification`
+
+Now, for representativeness, we need to convert the 17 part typology into a factor because the typology was constructed to span a spectrum roughly from industry insider (top) to general public (bottom).
 ```{r}
-# calculate polarity
-(poldat <- with(cftc.sentences.SAMPLE.cleaned, polarity(ExtractedText, CommenterType)))
-
-# have a peak of each line
-counts(poldat)[1:10,]
-
-# plot
-x <- plot(poldat)
-x
+cftc.Citations.orgOnly.coded$VA.KSC.Classification <- factor(cftc.Citations.orgOnly.coded$VA.KSC.Classification, levels = c(
+  "Major Wall Street Sell-Side Bank",
+"Core Financial Service Trade Association",
+"Other Sell-Side Bank",
+"Public Asset Manager",
+"Private Asset Manager",
+"U.S. Chamber of Commerce or Affiliate",
+"Market Infrastructure Firm",
+"Law Firms, Consultants, and Related Advisors",
+"Non-Financial Firm",
+"Government",
+"Academic or Other Expert",
+"Private-Sector Association",
+"Progressive Advocacy or other Pro-Regulation Group",
+"Trade Union or other Formal Labor Organization",
+"Market Advocacy or other Anti-Regulation Group",
+"Other Individual",
+"Un-Coded"
+))
 ```
-
-Now, the duration chart at the top of the plot is meaningless because the order of the sentences is arbitrary at the dataset level (although each cluster is one comment letter).  What we care about is the overall sentiment of the different types of commenters on Dodd-Frank rule, which we can see in the second plot
-
+Now that we have only the coded cases and have fixed typos in the typology coding, it's time to look at the overall commenter pool based on the typology.  We'll do that with `ggplot2` and group based on the `VA.KSC.Classification`
 ```{r}
-# we can get just the second plot this way, which is what we want because the order is arbitrary and thus irrelevant:
-x$p2
+all.comments = x=factor("All Rules") ##dummy factor to produce a stacked bar chart with only one bar.
+
+png(filename = "../Results/Citations_All.png", width = 753, height = 578, units = "px")
+ggplot(cftc.Citations.orgOnly.coded, aes(all.comments, fill=VA.KSC.Classification, order=-as.numeric(VA.KSC.Classification))) + geom_bar() + scale_fill_discrete()  + xlab("") + ylab("Number of Citations") +labs(title="CFTC Citations to Comments in Final Rules Which Implement the Dodd-Frank Act")
+dev.off()
 ```
 
-And, we see from the chart that Trade Unions and Labor Organizations are the most posititive (although fairly neurtral).  Overall, though, we see that EVERYONE is really quite neutral, suggesting that even on the super controversial Dodd-Frank Act, the regulatory process is boring... LAWL! No, what this tells us is that, on balance, there may be a good deal of positive and negative discussion, but that the conversation is generally rather balanced.
 
-Another intriguing tid-bit is that individual commenters (i.e. your crazy republican uncle or you bleeding hard 99% hippy cousin) are distintly the most negative AND that we are fairly confident that the difference is not random (given the small length of the whiskers).  So, private citizens who take the time to comment on financial regulation are the most negative overall commenters.  Stimulating!
+## 2.3 Split out the chart for several important rules
+While, overall, we can see that there is much more going on than just business groups, stack bar charts are really about comparison.  So, lets look at some subsets of the legislation:
 
-A final tidbit is that Market Advocacy Groups (think Libertarian Organizations, which should be a misnomer, but ideological consistency has never been a hallmark of libertarianism) are the most negative groups, but that their is wide variance.  This suggests that the don't comment alot (given the small number of dots) but also that they are inconsistent.
+Within the wider Dodd-Frank Legislation, there were several particularly publicized rules, such as the the Cross-Border Trading Rules.  Let's see what the mix of commenters looked like for 5 such publicized rules.
+```{r}
+## Comments not part of the publicized rules are coded NA in the dataset, so lets get just the variables we need for just the publicized rules (aka non-NA) 
+rulesData_citations <- na.omit(cftc.Citations.orgOnly.coded[,c("Rule.Super.set..from.Memo.Title.","VA.KSC.Classification")])
+
+##ggplot(rulesData, aes(Rule.Super.set..from.Memo.Title., fill=VA.KSC.Classification,  ##order=-as.numeric(VA.KSC.Classification))) + geom_bar() + scale_fill_discrete()
+
+png(filename = "../Results/Citations_by_Major_Rule.png", width = 753, height = 578, units = "px")
+ggplot(rulesData_citations, aes(Rule.Super.set..from.Memo.Title., fill=VA.KSC.Classification,  order=-as.numeric(VA.KSC.Classification))) + geom_bar()+ theme(axis.text.x=element_text(angle=15,hjust=.75,vjust=1)) + scale_fill_discrete() + xlab("Publicized Rules") + ylab("Number of Citations") +labs(title="CFTC Citations to Comments in Five Major Rules Which Implement the Dodd-Frank Act")
+dev.off()
+```
