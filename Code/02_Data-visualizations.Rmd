@@ -227,7 +227,7 @@ dev.off()
 ```
 
 
-## 2.3 Split out the chart for several important rules
+## 4.2 Split out the chart for several important rules
 While, overall, we can see that there is much more going on than just business groups, stack bar charts are really about comparison.  So, lets look at some subsets of the legislation:
 
 Within the wider Dodd-Frank Legislation, there were several particularly publicized rules, such as the the Cross-Border Trading Rules.  Let's see what the mix of commenters looked like for 5 such publicized rules.
