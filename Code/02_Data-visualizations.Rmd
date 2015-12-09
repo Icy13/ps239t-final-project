@@ -1,0 +1,114 @@
+---
+title: "02: Visualizations of Dodd-Frank Public Comments and Final Rule Citations"
+author: "Konrad Posch"
+date: "2015-12-07"
+output: html_document
+---
+
+### Setup Environment
+
+```{r message=FALSE}
+rm(list=ls())
+setwd("C:/Dropbox/_Berkeley/_Fall 2015/PS 239T - Computational Methods/ps239t-final-project/Data")
+
+
+library(ggplot2)
+library(tm)
+```
+
+
+# 1. Loading CFTC Comments and Citations
+
+The CFTC provided all comments submitted during the public comment periods on all rules they have written to implement the Dodd-Frank Act
+
+```{r}
+# load data
+cftc.Comments <- read.csv("CFTC_Comments_with_KSC+VA_coding.csv", stringsAsFactors = FALSE) ##These are the comments on proposed legislation
+cftc.Citations <- read.csv("(2015-12-07)Test_Run_of_All__Errors_but_no_exception.csv")
+
+# see a truncated version of the data
+names(cftc.Comments)
+names(cftc.Citations)
+
+```
+
+We can note that there are a whole helluvalot of meta-data variables which I have been using to track various coding projects which have been done to the original raw data.  Excel may have its downsides, but it really is quite powerful for containing an audit trail if you construct one manually.  Jus' sayin'
+
+In any case, we don't need all that audit trail, so we'll subset the interesting parts
+
+```{r}
+# Let's subset out the other 9 or so metadata variables
+cftc.Comments.clean <- subset(cftc.Comments, select=c(ControlNumberID,UniqueName,SubmitDate,LastName,FirstName,Organization, VA.KSC.Classification, Rule.Super.set..from.Memo.Title.))
+
+# see a truncated version of this now smaller data
+head(cftc.Comments.clean,10)
+
+```
+
+# 2. Cleaning up the 'ExtractedText' Comment Data and Sampling a Subset
+
+We can see more clearly now that the comment letters in the `ExtractedText` variable have quite a bit of messy puntuation at their beginning and end.  However, we're simply going to accept that fact for this initial analysis.  There is not reason to expect that the dirtiness is correlated with any particular type of commenter, so we'll just accept it as stochastic noise.  Not unchallengable, but reasonable enough for the purposes of this demonstration.
+
+We also know that `sentences` and `polarity` take forever to run.  This is not my processer, simply that a lot is happening.  So, we're gonna have to sample before we make sentences so that we have a smaller dataset to do the heavy lifting on.
+
+```{r}
+#Since polarity is AMAZINGLY slow on large datasets, lets take a random sample of comments to cut down the size
+set.seed(1234)# for reproducability, we'll set the seed to something so we get the same random sample each time
+cftc.comments.SAMPLE<-cftc.comments[sample(nrow(cftc.comments), 1000),]
+head(truncdf(cftc.comments.SAMPLE),10)
+
+#Lets change the dirty internal coding to something a bit more clear.  Unfortunately, you cannnot change axes labels in polarity plots, I've tried ylab, which you think would work, but it don't. Silly billies
+names(cftc.comments.SAMPLE)[6]<-"CommenterType" 
+
+# split the data into sentences (or, in this case, lines in the comment letters)
+cftc.sentences.SAMPLE <- sentSplit(cftc.comments.SAMPLE, "ExtractedText",verbose=FALSE)
+head(truncdf(cftc.sentences.SAMPLE),10)
+```
+
+We can see clearly here that some of the dirtiness has created sentences which are short and garbage (random unicode characters).  We'll throw away some (abitrarily) short sentences to clean stuff up.  This also helps with `polarity`'s exceptional slowness.
+
+```{r}
+# Get rid of a bad character, the ® symbol, which shows up EVERYWHERE!!
+cftc.sentences.SAMPLE.cleaned.STEP1<-cftc.sentences.SAMPLE
+cftc.sentences.SAMPLE.cleaned.STEP1$ExtractedText<-gsub("®","", cftc.sentences.SAMPLE.cleaned.STEP1$ExtractedText)
+head(truncdf(cftc.sentences.SAMPLE.cleaned.STEP1),10)
+
+#This has created a lot of whitespace, so let's clean that
+cftc.sentences.SAMPLE.cleaned.STEP1$ExtractedText<-Trim(clean(cftc.sentences.SAMPLE.cleaned.STEP1$ExtractedText))
+head(truncdf(cftc.sentences.SAMPLE.cleaned.STEP1),10)
+
+# Drop anything with less than three words, which are really just junk
+cftc.sentences.SAMPLE.cleaned<-subset(cftc.sentences.SAMPLE.cleaned.STEP1, (nchar(ExtractedText)- nchar(gsub(" ", "", ExtractedText)))>2)
+head(truncdf(cftc.sentences.SAMPLE.cleaned),10)
+
+```
+
+# 3. Show me the Results!
+The `qdap` package is great for using dictionary methods to analyze text. One of the most popular of these menthods is sentiment analysis, which calculates how "positive" or "negative" text is.
+
+In `qdap`, we analyze sentiment using the `polarity` function to show how positive or negative different types of commenters are when they comment on the Dodd-Frank act implementation at the CFTC.
+
+```{r}
+# calculate polarity
+(poldat <- with(cftc.sentences.SAMPLE.cleaned, polarity(ExtractedText, CommenterType)))
+
+# have a peak of each line
+counts(poldat)[1:10,]
+
+# plot
+x <- plot(poldat)
+x
+```
+
+Now, the duration chart at the top of the plot is meaningless because the order of the sentences is arbitrary at the dataset level (although each cluster is one comment letter).  What we care about is the overall sentiment of the different types of commenters on Dodd-Frank rule, which we can see in the second plot
+
+```{r}
+# we can get just the second plot this way, which is what we want because the order is arbitrary and thus irrelevant:
+x$p2
+```
+
+And, we see from the chart that Trade Unions and Labor Organizations are the most posititive (although fairly neurtral).  Overall, though, we see that EVERYONE is really quite neutral, suggesting that even on the super controversial Dodd-Frank Act, the regulatory process is boring... LAWL! No, what this tells us is that, on balance, there may be a good deal of positive and negative discussion, but that the conversation is generally rather balanced.
+
+Another intriguing tid-bit is that individual commenters (i.e. your crazy republican uncle or you bleeding hard 99% hippy cousin) are distintly the most negative AND that we are fairly confident that the difference is not random (given the small length of the whiskers).  So, private citizens who take the time to comment on financial regulation are the most negative overall commenters.  Stimulating!
+
+A final tidbit is that Market Advocacy Groups (think Libertarian Organizations, which should be a misnomer, but ideological consistency has never been a hallmark of libertarianism) are the most negative groups, but that their is wide variance.  This suggests that the don't comment alot (given the small number of dots) but also that they are inconsistent.
