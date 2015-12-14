@@ -37,3 +37,8 @@ List all other files contained in the repo, along with a brief description of ea
 2. Citations_by_Major_Rule.png: A stacked bar graph of the citations data for 5 particularly well known rules in (2015-12-07)Test_Run_of_All__Errors_but_no_exception.csv showing the breakdown of what types of organizations were cited by the CFTC when drafting these 5 final rules which partially implement Dodd-Frank.
 3. Comments_all.png: A stacked bar graph of the comments data in CFTC_Comments_with_KSC+VA_coding.csv showing the breakdown of what types of organizations commented on the CFTC proposed rules which implement Dodd-Frank.
 4. Comments_by_Major_Rule.png: A stacked bar graph of the comments data in CFTC_Comments_with_KSC+VA_coding.csv showing the breakdown of what types of organizations commented on 5 particularly well known rules CFTC proposed rules which implement Dodd-Frank.
+
+### root directory
+
+1. ner.desktop.sh: A shell file which contains the path to the Stanford NER on my desktop computer as well as the line of bash code to to activate and configure the NER
+2. ner.laptop.sh: A shell file which contains the path to the Stanford NER on my laptop computer as well as the line of bash code to to activate and configure the NER
